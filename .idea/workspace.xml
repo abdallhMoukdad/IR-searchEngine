@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88a41b4d-c9f4-4745-8e43-7b5d1af4aaba" name="Changes" comment="delete file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluation Metrics Results dataset2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Metrics Results dataset2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/file_checkpoint.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_0.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_1.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_12796.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_3.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_5.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inverted_index.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tfidf_vectorizer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vocabulary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/cli_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/cli_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_final_dataset2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_final_dataset2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2023.3/python_stubs/1494301059/_collections.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2023.3/python_stubs/1494301059/builtins.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fiwRdleBxM673P5bfxj5bQLKto" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.api (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_component.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_final_dataset2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multilingual_document_processor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_2000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.short_evaluation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_embedding.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;semi-ready&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/abdallh/PycharmProjects/information_system&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_component">
+    <configuration name="api (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluate/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apis/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="pythonProject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_component" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_component.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_final_dataset2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_final_dataset2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multilingual_document_processor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/query" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/query/multilingual_document_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_embedding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="information_system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/query" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/query/word_embedding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main_final_dataset2" />
+      <item itemvalue="Python.main1" />
+      <item itemvalue="Python.api (1)" />
+      <item itemvalue="Python.multilingual_document_processor" />
+      <item itemvalue="Python.word_embedding" />
+      <item itemvalue="Python.api" />
+      <item itemvalue="Python.main_component" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_component" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.api (1)" />
+        <item itemvalue="Python.word_embedding" />
+        <item itemvalue="Python.multilingual_document_processor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a41b4d-c9f4-4745-8e43-7b5d1af4aaba" name="Changes" comment="" />
+      <created>1714297199534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714297199534</updated>
+    </task>
+    <task id="LOCAL-00001" summary="working code with good architecture">
+      <option name="closed" value="true" />
+      <created>1714469821839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714469821839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final touch">
+      <option name="closed" value="true" />
+      <created>1716641163052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716641163052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="make the id and query alittle bit dynamic">
+      <option name="closed" value="true" />
+      <created>1717413377011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717413377011</updated>
+    </task>
+    <task id="LOCAL-00004" summary="make the id and query alittle bit dynamic">
+      <option name="closed" value="true" />
+      <created>1717413661201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717413661201</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete file">
+      <option name="closed" value="true" />
+      <created>1717413895936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717413895936</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="semi-ready" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working code with good architecture" />
+    <MESSAGE value="final touch" />
+    <MESSAGE value="make the id and query alittle bit dynamic" />
+    <MESSAGE value="delete file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
+  </component>
+</project>

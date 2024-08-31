@@ -1,0 +1,3189 @@
+1
+should teacher get tenur 
+Rank 1: Document c065954f-2019-04-18T14:32:52Z-00004-000, Similarity Score: 0.9655890776794862
+Document ID: c065954f-2019-04-18T14:32:52Z-00004-000
+Title: There should not be a teacher tenure.
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/There-should-not-be-a-teacher-tenure./1/'}
+
+Rank 2: Document c065954f-2019-04-18T14:32:52Z-00005-000, Similarity Score: 0.9570821966569899
+Document ID: c065954f-2019-04-18T14:32:52Z-00005-000
+Title: There should not be a teacher tenure.
+Text: Hello and thank you for joining my debate I will be arguing to get rid of the teacher tenure....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-not-be-a-teacher-tenure./1/'}
+
+Rank 3: Document c065954f-2019-04-18T14:32:52Z-00005-000, Similarity Score: 0.9570821966569899
+Document ID: c065954f-2019-04-18T14:32:52Z-00005-000
+Title: There should not be a teacher tenure.
+Text: Hello and thank you for joining my debate I will be arguing to get rid of the teacher tenure....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-not-be-a-teacher-tenure./1/'}
+
+Rank 4: Document 51530f3f-2019-04-18T18:15:02Z-00004-000, Similarity Score: 0.9053432968354771
+Document ID: 51530f3f-2019-04-18T18:15:02Z-00004-000
+Title: Should Tenures Be Taken Away
+Text: Prevent Arbitrary Firings:If teachers did not receive tenure they could be fired for any reason. In ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-Tenures-Be-Taken-Away/1/'}
+
+Rank 5: Document b0680508-2019-04-18T13:48:51Z-00002-000, Similarity Score: 0.9011001608224595
+Document ID: b0680508-2019-04-18T13:48:51Z-00002-000
+Title: Teacher Tenure
+Text: Here are some facts against Teacher Tenure: Teacher tenure creates complacency because teachers know...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Teacher-Tenure/1/'}
+
+Rank 6: Document b0680508-2019-04-18T13:48:51Z-00002-000, Similarity Score: 0.9011001608224595
+Document ID: b0680508-2019-04-18T13:48:51Z-00002-000
+Title: Teacher Tenure
+Text: Here are some facts against Teacher Tenure: Teacher tenure creates complacency because teachers know...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Teacher-Tenure/1/'}
+
+Rank 7: Document c065954f-2019-04-18T14:32:52Z-00001-000, Similarity Score: 0.8868115218946362
+Document ID: c065954f-2019-04-18T14:32:52Z-00001-000
+Title: There should not be a teacher tenure.
+Text: Reason 2 - Tenure makes it difficult to remove under-performing teachers because the process involve...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-not-be-a-teacher-tenure./1/'}
+
+Rank 8: Document c065954f-2019-04-18T14:32:52Z-00001-000, Similarity Score: 0.8868115218946362
+Document ID: c065954f-2019-04-18T14:32:52Z-00001-000
+Title: There should not be a teacher tenure.
+Text: Reason 2 - Tenure makes it difficult to remove under-performing teachers because the process involve...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-not-be-a-teacher-tenure./1/'}
+
+Rank 9: Document ff0947ec-2019-04-18T12:23:12Z-00000-000, Similarity Score: 0.8856130829146185
+Document ID: ff0947ec-2019-04-18T12:23:12Z-00000-000
+Title: Colleges should abolish the ability for teachers to be tenured.
+Text: Since I assume their opening statement was made in their R1 post, I will begin mine as well. I will ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Colleges-should-abolish-the-ability-for-teachers-to-be-tenured./1/'}
+
+Rank 10: Document ff0947ec-2019-04-18T12:23:12Z-00000-000, Similarity Score: 0.8856130829146185
+Document ID: ff0947ec-2019-04-18T12:23:12Z-00000-000
+Title: Colleges should abolish the ability for teachers to be tenured.
+Text: Since I assume their opening statement was made in their R1 post, I will begin mine as well. I will ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Colleges-should-abolish-the-ability-for-teachers-to-be-tenured./1/'}
+
+Query ID: 1
+Precision: 0.3, Recall: 0.9090909090909091, F1: 0.4511278195488722
+
+2
+is vape ecigarett safe 
+Rank 1: Document 52ece351-2019-04-18T16:22:02Z-00002-000, Similarity Score: 0.6237634606799931
+Document ID: 52ece351-2019-04-18T16:22:02Z-00002-000
+Title: Gay "Safe Sex" A Penicious Lie
+Text: In his last response, my opponent gave us this amazing statement:===================================...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gay-Safe-Sex-A-Penicious-Lie/1/'}
+
+Rank 2: Document 52ece351-2019-04-18T16:22:02Z-00002-000, Similarity Score: 0.6237634606799931
+Document ID: 52ece351-2019-04-18T16:22:02Z-00002-000
+Title: Gay "Safe Sex" A Penicious Lie
+Text: In his last response, my opponent gave us this amazing statement:===================================...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gay-Safe-Sex-A-Penicious-Lie/1/'}
+
+Rank 3: Document cef0f907-2019-04-18T16:54:31Z-00000-000, Similarity Score: 0.5685569648373952
+Document ID: cef0f907-2019-04-18T16:54:31Z-00000-000
+Title: Vaccines are safe
+Text: I will wait for con to post an argument....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Vaccines-are-safe/1/'}
+
+Rank 4: Document 3a205777-2019-04-18T12:54:13Z-00001-000, Similarity Score: 0.5674789834197924
+Document ID: 3a205777-2019-04-18T12:54:13Z-00001-000
+Title: Why the Future is Safe
+Text: I'm here because I need points for this topic, please help me come up with points, I only have Evolu...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Why-the-Future-is-Safe/1/'}
+
+Rank 5: Document 3a205777-2019-04-18T12:54:13Z-00001-000, Similarity Score: 0.5674789834197924
+Document ID: 3a205777-2019-04-18T12:54:13Z-00001-000
+Title: Why the Future is Safe
+Text: I'm here because I need points for this topic, please help me come up with points, I only have Evolu...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Why-the-Future-is-Safe/1/'}
+
+Rank 6: Document ac48a52f-2019-04-18T16:21:16Z-00006-000, Similarity Score: 0.5607156005136437
+Document ID: ac48a52f-2019-04-18T16:21:16Z-00006-000
+Title: Safe legal choice to have an abortion
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Safe-legal-choice-to-have-an-abortion/1/'}
+
+Rank 7: Document ac48a52f-2019-04-18T16:21:16Z-00002-000, Similarity Score: 0.5598287514064175
+Document ID: ac48a52f-2019-04-18T16:21:16Z-00002-000
+Title: Safe legal choice to have an abortion
+Text: Sure...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Safe-legal-choice-to-have-an-abortion/1/'}
+
+Rank 8: Document ac48a52f-2019-04-18T16:21:16Z-00005-000, Similarity Score: 0.5548197284147323
+Document ID: ac48a52f-2019-04-18T16:21:16Z-00005-000
+Title: Safe legal choice to have an abortion
+Text: Hope she comes back...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Safe-legal-choice-to-have-an-abortion/1/'}
+
+Rank 9: Document ac48a52f-2019-04-18T16:21:16Z-00007-000, Similarity Score: 0.5435298997239069
+Document ID: ac48a52f-2019-04-18T16:21:16Z-00007-000
+Title: Safe legal choice to have an abortion
+Text: Wanna debate me on this?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Safe-legal-choice-to-have-an-abortion/1/'}
+
+Rank 10: Document ac48a52f-2019-04-18T16:21:16Z-00003-000, Similarity Score: 0.5429909954233059
+Document ID: ac48a52f-2019-04-18T16:21:16Z-00003-000
+Title: Safe legal choice to have an abortion
+Text: Can we continue in the next round DDO isn't working that well for me...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Safe-legal-choice-to-have-an-abortion/1/'}
+
+Query ID: 2
+Precision: 0.0, Recall: 0.5833333333333334, F1: 0.0
+
+3
+should insid trade allow 
+Rank 1: Document f6822c0d-2019-04-18T15:51:58Z-00001-000, Similarity Score: 0.5572007219958337
+Document ID: f6822c0d-2019-04-18T15:51:58Z-00001-000
+Title: 'fair trade' not 'free trade'
+Text: the idea then should be in theory fair trade is better than free trade, if you insist that humans ca...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/fair-trade-not-free-trade/1/'}
+
+Rank 2: Document f6822c0d-2019-04-18T15:51:58Z-00000-000, Similarity Score: 0.5472825937598771
+Document ID: f6822c0d-2019-04-18T15:51:58Z-00000-000
+Title: 'fair trade' not 'free trade'
+Text: There you go! Now think about this - if people weren't stupid, free trade would destroy fair trade. ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/fair-trade-not-free-trade/1/'}
+
+Rank 3: Document f6822c0d-2019-04-18T15:51:58Z-00002-000, Similarity Score: 0.5435796145337181
+Document ID: f6822c0d-2019-04-18T15:51:58Z-00002-000
+Title: 'fair trade' not 'free trade'
+Text: Yes. How is it not an argument? You live in a world of hypocrites and war inducers. All wars would c...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/fair-trade-not-free-trade/1/'}
+
+Rank 4: Document f6822c0d-2019-04-18T15:51:58Z-00003-000, Similarity Score: 0.5430319218457222
+Document ID: f6822c0d-2019-04-18T15:51:58Z-00003-000
+Title: 'fair trade' not 'free trade'
+Text: con seems to be rambling. and is too vague, what stupid species are you referring to? humans? fair t...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/fair-trade-not-free-trade/1/'}
+
+Rank 5: Document f6822c0d-2019-04-18T15:51:58Z-00004-000, Similarity Score: 0.5342843469323204
+Document ID: f6822c0d-2019-04-18T15:51:58Z-00004-000
+Title: 'fair trade' not 'free trade'
+Text: While I understand the intentions, the idea of "fair", "equal" and all of the good concepts that don...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/fair-trade-not-free-trade/1/'}
+
+Rank 6: Document 8397905b-2019-04-18T18:15:13Z-00001-000, Similarity Score: 0.5297457471547772
+Document ID: 8397905b-2019-04-18T18:15:13Z-00001-000
+Title: Free Trade
+Text: Arguments Extended....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Free-Trade/1/'}
+
+Rank 7: Document 8397905b-2019-04-18T18:15:13Z-00000-000, Similarity Score: 0.5297457471547772
+Document ID: 8397905b-2019-04-18T18:15:13Z-00000-000
+Title: Free Trade
+Text: Arguments extended....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Free-Trade/1/'}
+
+Rank 8: Document 8397905b-2019-04-18T18:15:13Z-00006-000, Similarity Score: 0.5215687133130767
+Document ID: 8397905b-2019-04-18T18:15:13Z-00006-000
+Title: Free Trade
+Text: IssueFree trade, with a limited amount of regulations, is good for the United States of America.Rule...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Free-Trade/1/'}
+
+Rank 9: Document 839790d7-2019-04-18T12:31:47Z-00001-000, Similarity Score: 0.519716493044423
+Document ID: 839790d7-2019-04-18T12:31:47Z-00001-000
+Title: Free Trade
+Text: Round 4 will be waived, don't worry :) First, my opponent talks about the slave labor and wages. How...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Free-Trade/5/'}
+
+Rank 10: Document 62423408-2019-04-18T19:38:21Z-00001-000, Similarity Score: 0.501331988565838
+Document ID: 62423408-2019-04-18T19:38:21Z-00001-000
+Title: Topic inside.
+Text: Hm. .. it seems I have not done my research >....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Topic-inside./1/'}
+
+Query ID: 3
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+4
+should corpor punish use school 
+Rank 1: Document e7b98175-2019-04-18T14:36:18Z-00003-000, Similarity Score: 0.955620153632724
+Document ID: e7b98175-2019-04-18T14:36:18Z-00003-000
+Title: The Reintroduction of Corporal Punishment Into Schools
+Text: I accept....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-Reintroduction-of-Corporal-Punishment-Into-Schools/1/'}
+
+Rank 2: Document 4712ec0a-2019-04-18T12:53:28Z-00002-000, Similarity Score: 0.9473130199875714
+Document ID: 4712ec0a-2019-04-18T12:53:28Z-00002-000
+Title: Corporal punishment in schools.
+Text: I forfeit this round...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporal-punishment-in-schools./1/'}
+
+Rank 3: Document 4712ec0a-2019-04-18T12:53:28Z-00008-000, Similarity Score: 0.940905241346893
+Document ID: 4712ec0a-2019-04-18T12:53:28Z-00008-000
+Title: Corporal punishment in schools.
+Text: Thank you for the debate. I will offer an opinion on corporal punishment in school which supports it...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporal-punishment-in-schools./1/'}
+
+Rank 4: Document e7b98175-2019-04-18T14:36:18Z-00000-000, Similarity Score: 0.9400292244396012
+Document ID: e7b98175-2019-04-18T14:36:18Z-00000-000
+Title: The Reintroduction of Corporal Punishment Into Schools
+Text: My arguments extend without response....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Reintroduction-of-Corporal-Punishment-Into-Schools/1/'}
+
+Rank 5: Document 8baf5944-2019-04-18T19:55:55Z-00003-000, Similarity Score: 0.9361097573107917
+Document ID: 8baf5944-2019-04-18T19:55:55Z-00003-000
+Title: should schools use corporal punishment
+Text: Before I start this debate, I want to define the topic. First of all corporal. Punishment and school...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/should-schools-use-corporal-punishment/1/'}
+
+Rank 6: Document e7b98175-2019-04-18T14:36:18Z-00001-000, Similarity Score: 0.9332156241080467
+Document ID: e7b98175-2019-04-18T14:36:18Z-00001-000
+Title: The Reintroduction of Corporal Punishment Into Schools
+Text: My arguments extend. I have nothing to rebut....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Reintroduction-of-Corporal-Punishment-Into-Schools/1/'}
+
+Rank 7: Document 6110d4e2-2019-04-18T18:37:47Z-00000-000, Similarity Score: 0.9158957407010766
+Document ID: 6110d4e2-2019-04-18T18:37:47Z-00000-000
+Title: Corporal Punishment in schools
+Text: Well this is dissapointing. I was expecting my opponent's rebuttals. Anyways, my arguments stand as ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporal-Punishment-in-schools/1/'}
+
+Rank 8: Document 8baf5944-2019-04-18T19:55:55Z-00000-000, Similarity Score: 0.9114438748549551
+Document ID: 8baf5944-2019-04-18T19:55:55Z-00000-000
+Title: should schools use corporal punishment
+Text: My argument stands, and screw this 100 character limit. really makes me angry. To bad my opposition ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/should-schools-use-corporal-punishment/1/'}
+
+Rank 9: Document 4712ec0a-2019-04-18T12:53:28Z-00006-000, Similarity Score: 0.9070402190046012
+Document ID: 4712ec0a-2019-04-18T12:53:28Z-00006-000
+Title: Corporal punishment in schools.
+Text: My support for corporal punishment in school rests on a single premise. There may be times even if r...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporal-punishment-in-schools./1/'}
+
+Rank 10: Document 4712ec0a-2019-04-18T12:53:28Z-00006-000, Similarity Score: 0.9070402190046012
+Document ID: 4712ec0a-2019-04-18T12:53:28Z-00006-000
+Title: Corporal punishment in schools.
+Text: My support for corporal punishment in school rests on a single premise. There may be times even if r...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporal-punishment-in-schools./1/'}
+
+Query ID: 4
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+5
+should social secur privat 
+Rank 1: Document cf4c9cbf-2019-04-17T11:47:24Z-00034-000, Similarity Score: 0.9537766700056283
+Document ID: cf4c9cbf-2019-04-17T11:47:24Z-00034-000
+Title: Privatizing social security
+Text: Privatizing social security would wrongly enrich banks....
+Metadata: {'stance': 'CON', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Privatizing_social_security'}
+
+Rank 2: Document cf4c9cbf-2019-04-17T11:47:24Z-00000-000, Similarity Score: 0.9503680172441464
+Document ID: cf4c9cbf-2019-04-17T11:47:24Z-00000-000
+Title: Privatizing social security
+Text: Support for privatization is driven by misinformation....
+Metadata: {'stance': 'CON', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Privatizing_social_security'}
+
+Rank 3: Document 36edccb7-2019-04-18T13:24:24Z-00006-000, Similarity Score: 0.7814935235666511
+Document ID: 36edccb7-2019-04-18T13:24:24Z-00006-000
+Title: Social Security
+Text: Accepted....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-Security/6/'}
+
+Rank 4: Document 2d6f4e75-2019-04-15T20:22:43Z-00009-000, Similarity Score: 0.7404640587951317
+Document ID: 2d6f4e75-2019-04-15T20:22:43Z-00009-000
+Title: Privatising social security will increase the amount of money that reitrees can draw on
+Text: Private accounts would provide retirees with a higher rate of return on investments.[1] Privatizatio...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/economy-economic-policy-society-family/house-would-privatize-usas-social-security-schemes'}
+
+Rank 5: Document 36edccd6-2019-04-18T12:31:06Z-00000-000, Similarity Score: 0.738284048393091
+Document ID: 36edccd6-2019-04-18T12:31:06Z-00000-000
+Title: Social Security
+Text: Social Security..... In my defence of the case I shall be talking about how social security should b...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-Security/7/'}
+
+Rank 6: Document 2d6f4e75-2019-04-15T20:22:43Z-00007-000, Similarity Score: 0.7165642132965389
+Document ID: 2d6f4e75-2019-04-15T20:22:43Z-00007-000
+Title: Privatising social security would improve economic growth
+Text: Privatizing social security would enable investment of savings. Commentator Alex Schibuola argues th...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/economy-economic-policy-society-family/house-would-privatize-usas-social-security-schemes'}
+
+Rank 7: Document 2d6f4e75-2019-04-15T20:22:43Z-00000-000, Similarity Score: 0.7119076261367815
+Document ID: 2d6f4e75-2019-04-15T20:22:43Z-00000-000
+Title: privatize the USA's social security schemes
+Text: The problems with the social security are systemic, not inherent...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/economy-economic-policy-society-family/house-would-privatize-usas-social-security-schemes'}
+
+Rank 8: Document 36edcc1c-2019-04-18T19:45:50Z-00003-000, Similarity Score: 0.7001897965219812
+Document ID: 36edcc1c-2019-04-18T19:45:50Z-00003-000
+Title: Social Security
+Text: I believe you shouldn't be able to use other peoples wealth and success.I think some people should j...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-Security/1/'}
+
+Rank 9: Document 36edcc1c-2019-04-18T19:45:50Z-00001-000, Similarity Score: 0.691684120719928
+Document ID: 36edcc1c-2019-04-18T19:45:50Z-00001-000
+Title: Social Security
+Text: ok my point to why I think it is wrong is in my first paragraph. I have little to say but i don't th...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-Security/1/'}
+
+Rank 10: Document 36edcc1c-2019-04-18T19:45:50Z-00001-000, Similarity Score: 0.691684120719928
+Document ID: 36edcc1c-2019-04-18T19:45:50Z-00001-000
+Title: Social Security
+Text: ok my point to why I think it is wrong is in my first paragraph. I have little to say but i don't th...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-Security/1/'}
+
+Query ID: 5
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+6
+is colleg educ worth 
+Rank 1: Document 561c5e25-2019-04-18T15:50:58Z-00004-000, Similarity Score: 0.8482018831342225
+Document ID: 561c5e25-2019-04-18T15:50:58Z-00004-000
+Title: College is worth it
+Text: This debate will be over whether or not college education is worth the time and expense. I will take...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/College-is-worth-it/1/'}
+
+Rank 2: Document 76c7c4bc-2019-04-18T13:04:33Z-00005-000, Similarity Score: 0.821292463587419
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00005-000
+Title: Going to college is worth
+Text: I accept, and will be arguing that college is worth it for some people....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 3: Document 76c7c4bc-2019-04-18T13:04:33Z-00005-000, Similarity Score: 0.821292463587419
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00005-000
+Title: Going to college is worth
+Text: I accept, and will be arguing that college is worth it for some people....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 4: Document 76c7c4bc-2019-04-18T13:04:33Z-00000-000, Similarity Score: 0.8056614629181453
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00000-000
+Title: Going to college is worth
+Text: Vote 4 me....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 5: Document 76c7c4bc-2019-04-18T13:04:33Z-00001-000, Similarity Score: 0.8029661882017467
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00001-000
+Title: Going to college is worth
+Text: Extend....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 6: Document 76c7c4bc-2019-04-18T13:04:33Z-00002-000, Similarity Score: 0.8029661882017467
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00002-000
+Title: Going to college is worth
+Text: Extend....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 7: Document 76c7c4bc-2019-04-18T13:04:33Z-00004-000, Similarity Score: 0.8010684624383844
+Document ID: 76c7c4bc-2019-04-18T13:04:33Z-00004-000
+Title: Going to college is worth
+Text: It is not !!!!!!!!! CAn i hear your why-statement ?...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Going-to-college-is-worth/1/'}
+
+Rank 8: Document 472d8abe-2019-04-18T12:17:23Z-00005-000, Similarity Score: 0.7072220383465702
+Document ID: 472d8abe-2019-04-18T12:17:23Z-00005-000
+Title: A Full Time College Education is Not Worth It
+Text: Due to recent events in our debates I have come to see that even though nationwide high schools now ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/A-Full-Time-College-Education-is-Not-Worth-It/1/'}
+
+Rank 9: Document 472d8abe-2019-04-18T12:17:23Z-00005-000, Similarity Score: 0.7072220383465702
+Document ID: 472d8abe-2019-04-18T12:17:23Z-00005-000
+Title: A Full Time College Education is Not Worth It
+Text: Due to recent events in our debates I have come to see that even though nationwide high schools now ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/A-Full-Time-College-Education-is-Not-Worth-It/1/'}
+
+Rank 10: Document 561c5e25-2019-04-18T15:50:58Z-00001-000, Similarity Score: 0.6988831521917419
+Document ID: 561c5e25-2019-04-18T15:50:58Z-00001-000
+Title: College is worth it
+Text: I apologize but I will not be able to finish this debate, I had several unexpected events come up. A...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/College-is-worth-it/1/'}
+
+Query ID: 6
+Precision: 0.1, Recall: 1.0, F1: 0.18181818181818182
+
+7
+should felon complet sentenc allow vote 
+Rank 1: Document ed449e61-2019-04-18T15:13:37Z-00003-000, Similarity Score: 0.6934658784122625
+Document ID: ed449e61-2019-04-18T15:13:37Z-00003-000
+Title: Resolved: In the United States, Felons should be allowed to vote upon release from prison.
+Text: Today I stand to affirm the resolution: "resolved: In the United States, Felons should be allowed to...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-In-the-United-States-Felons-should-be-allowed-to-vote-upon-release-from-prison./1/'}
+
+Rank 2: Document ed449e61-2019-04-18T15:13:37Z-00003-000, Similarity Score: 0.6934658784122625
+Document ID: ed449e61-2019-04-18T15:13:37Z-00003-000
+Title: Resolved: In the United States, Felons should be allowed to vote upon release from prison.
+Text: Today I stand to affirm the resolution: "resolved: In the United States, Felons should be allowed to...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-In-the-United-States-Felons-should-be-allowed-to-vote-upon-release-from-prison./1/'}
+
+Rank 3: Document 826727db-2019-04-18T14:31:24Z-00006-000, Similarity Score: 0.6575362811735719
+Document ID: 826727db-2019-04-18T14:31:24Z-00006-000
+Title: Felons should have voting rights in the modern U.S.
+Text: As Con, I will argue why felons shouldn't have voting rights. Good luck!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Felons-should-have-voting-rights-in-the-modern-U.S./3/'}
+
+Rank 4: Document e5aaa3b2-2019-04-18T19:34:25Z-00003-000, Similarity Score: 0.6537035582446755
+Document ID: e5aaa3b2-2019-04-18T19:34:25Z-00003-000
+Title: Resolved: In a democratic society, felons ought to retain the right to vote.
+Text: Do the names Carrie Lenz or Cindy Brown ring a bell? Probably not. They were 26 years old when Tim M...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Resolved-In-a-democratic-society-felons-ought-to-retain-the-right-to-vote./6/'}
+
+Rank 5: Document e5aaa40f-2019-04-18T19:30:54Z-00003-000, Similarity Score: 0.6444776735356345
+Document ID: e5aaa40f-2019-04-18T19:30:54Z-00003-000
+Title: Resolved: In a democratic society felons ought to retain the right to vote.
+Text: Resolved: In a democratic society felons ought to retain the right to vote Value: democratic society...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-In-a-democratic-society-felons-ought-to-retain-the-right-to-vote./9/'}
+
+Rank 6: Document 52f90272-2019-04-18T19:19:15Z-00003-000, Similarity Score: 0.6402445853378733
+Document ID: 52f90272-2019-04-18T19:19:15Z-00003-000
+Title: ToC:Resolved in a democratic society felons ought to retain the right to vote.
+Text: I look for ward to this debate and hope my opponent does too. Value: Democratic society Value Criter...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/ToC-Resolved-in-a-democratic-society-felons-ought-to-retain-the-right-to-vote./1/'}
+
+Rank 7: Document ed449e61-2019-04-18T15:13:37Z-00001-000, Similarity Score: 0.6375211971994001
+Document ID: ed449e61-2019-04-18T15:13:37Z-00001-000
+Title: Resolved: In the United States, Felons should be allowed to vote upon release from prison.
+Text: I will be debating against the topic, "Resolved: In the United States, Felons should not be allowed ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Resolved-In-the-United-States-Felons-should-be-allowed-to-vote-upon-release-from-prison./1/'}
+
+Rank 8: Document 826727bc-2019-04-18T15:25:22Z-00006-000, Similarity Score: 0.6308380778402385
+Document ID: 826727bc-2019-04-18T15:25:22Z-00006-000
+Title: Felons should have voting rights in the modern U.S.
+Text: I must make clear that my position is in favor of the status quo. I may disagree states that I do no...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Felons-should-have-voting-rights-in-the-modern-U.S./2/'}
+
+Rank 9: Document 826727db-2019-04-18T14:31:24Z-00004-000, Similarity Score: 0.6304412235444717
+Document ID: 826727db-2019-04-18T14:31:24Z-00004-000
+Title: Felons should have voting rights in the modern U.S.
+Text: In this round, I will state my arguments. First off, Felons already have voting rights when they get...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Felons-should-have-voting-rights-in-the-modern-U.S./3/'}
+
+Rank 10: Document 7da97fb8-2019-04-18T14:19:59Z-00000-000, Similarity Score: 0.6269325550687759
+Document ID: 7da97fb8-2019-04-18T14:19:59Z-00000-000
+Title: R: Felons should have voting rights in the modern U.S.
+Text: I extend all arguments....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/R-Felons-should-have-voting-rights-in-the-modern-U.S./1/'}
+
+Query ID: 7
+Precision: 0.1, Recall: 1.0, F1: 0.18181818181818182
+
+8
+should abort legal 
+Rank 1: Document fe8a2184-2019-04-18T11:12:03Z-00001-000, Similarity Score: 1.0
+Document ID: fe8a2184-2019-04-18T11:12:03Z-00001-000
+Title: Abortions should be legal
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortions-should-be-legal/2/'}
+
+Rank 2: Document 6702c13d-2019-04-18T15:40:34Z-00001-000, Similarity Score: 1.0
+Document ID: 6702c13d-2019-04-18T15:40:34Z-00001-000
+Title: Abortion should be legal
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/28/'}
+
+Rank 3: Document 6702c425-2019-04-18T15:23:27Z-00005-000, Similarity Score: 1.0
+Document ID: 6702c425-2019-04-18T15:23:27Z-00005-000
+Title: Abortion should be legal
+Text: It should be...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/31/'}
+
+Rank 4: Document 6702417c-2019-04-18T15:16:55Z-00000-000, Similarity Score: 1.0
+Document ID: 6702417c-2019-04-18T15:16:55Z-00000-000
+Title: Abortion should be legal.
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal./7/'}
+
+Rank 5: Document 6702417c-2019-04-18T15:16:55Z-00001-000, Similarity Score: 1.0
+Document ID: 6702417c-2019-04-18T15:16:55Z-00001-000
+Title: Abortion should be legal.
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal./7/'}
+
+Rank 6: Document 6702c13d-2019-04-18T15:40:34Z-00000-000, Similarity Score: 1.0
+Document ID: 6702c13d-2019-04-18T15:40:34Z-00000-000
+Title: Abortion should be legal
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/28/'}
+
+Rank 7: Document 6702c13d-2019-04-18T15:40:34Z-00002-000, Similarity Score: 1.0
+Document ID: 6702c13d-2019-04-18T15:40:34Z-00002-000
+Title: Abortion should be legal
+Text: x...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/28/'}
+
+Rank 8: Document 6702c4fe-2019-04-18T13:27:55Z-00004-000, Similarity Score: 0.9957322194017653
+Document ID: 6702c4fe-2019-04-18T13:27:55Z-00004-000
+Title: Abortion should be legal
+Text: Why do you believe that abortion should be legal...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/38/'}
+
+Rank 9: Document 6702c425-2019-04-18T15:23:27Z-00004-000, Similarity Score: 0.9921595885416954
+Document ID: 6702c425-2019-04-18T15:23:27Z-00004-000
+Title: Abortion should be legal
+Text: I accept....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/31/'}
+
+Rank 10: Document 6702c0e0-2019-04-18T16:04:55Z-00004-000, Similarity Score: 0.9921595885416954
+Document ID: 6702c0e0-2019-04-18T16:04:55Z-00004-000
+Title: Abortion should be legal
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Abortion-should-be-legal/25/'}
+
+Query ID: 8
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+9
+should student wear school uniform 
+Rank 1: Document caa63d4b-2019-04-18T12:31:31Z-00001-000, Similarity Score: 0.9986823954924444
+Document ID: caa63d4b-2019-04-18T12:31:31Z-00001-000
+Title: should students have to wear school uniforms
+Text: What do u think should students wear school uniforms...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/should-students-have-to-wear-school-uniforms/2/'}
+
+Rank 2: Document caa63d4b-2019-04-18T12:31:31Z-00001-000, Similarity Score: 0.9986823954924444
+Document ID: caa63d4b-2019-04-18T12:31:31Z-00001-000
+Title: should students have to wear school uniforms
+Text: What do u think should students wear school uniforms...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/should-students-have-to-wear-school-uniforms/2/'}
+
+Rank 3: Document caa63d4b-2019-04-18T12:31:31Z-00000-000, Similarity Score: 0.9737505116423718
+Document ID: caa63d4b-2019-04-18T12:31:31Z-00000-000
+Title: should students have to wear school uniforms
+Text: We didn't, and currently this country's schools don't have uniforms for students and doing great! So...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/should-students-have-to-wear-school-uniforms/2/'}
+
+Rank 4: Document f84713e2-2019-04-18T18:06:56Z-00004-000, Similarity Score: 0.9518344544658361
+Document ID: f84713e2-2019-04-18T18:06:56Z-00004-000
+Title: High school students should wear uniforms
+Text: It is obvious that students should wear uniforms in schools....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/High-school-students-should-wear-uniforms/1/'}
+
+Rank 5: Document a54d8ac8-2019-04-18T14:32:55Z-00001-000, Similarity Score: 0.9389162816397333
+Document ID: a54d8ac8-2019-04-18T14:32:55Z-00001-000
+Title: Students should be required to wear uniforms in all schools
+Text: Need I say more?...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Students-should-be-required-to-wear-uniforms-in-all-schools/1/'}
+
+Rank 6: Document db524bb6-2019-04-18T15:31:00Z-00005-000, Similarity Score: 0.9380197045713504
+Document ID: db524bb6-2019-04-18T15:31:00Z-00005-000
+Title: Should students be forced to wear a school uniform
+Text: I accepted bossnegotiator's challenge. I will be arguing that students should not be forced to wear ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-students-be-forced-to-wear-a-school-uniform/1/'}
+
+Rank 7: Document db524bb6-2019-04-18T15:31:00Z-00003-000, Similarity Score: 0.935406746577952
+Document ID: db524bb6-2019-04-18T15:31:00Z-00003-000
+Title: Should students be forced to wear a school uniform
+Text: awaiting your argument...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-students-be-forced-to-wear-a-school-uniform/1/'}
+
+Rank 8: Document a54d8ac8-2019-04-18T14:32:55Z-00003-000, Similarity Score: 0.9340839700613504
+Document ID: a54d8ac8-2019-04-18T14:32:55Z-00003-000
+Title: Students should be required to wear uniforms in all schools
+Text: you ready?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Students-should-be-required-to-wear-uniforms-in-all-schools/1/'}
+
+Rank 9: Document 40c16f39-2019-04-18T16:15:15Z-00005-000, Similarity Score: 0.9298734904618788
+Document ID: 40c16f39-2019-04-18T16:15:15Z-00005-000
+Title: Students should not wear uniform
+Text: You're on....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Students-should-not-wear-uniform/1/'}
+
+Rank 10: Document a54d8ac8-2019-04-18T14:32:55Z-00000-000, Similarity Score: 0.9263881215707954
+Document ID: a54d8ac8-2019-04-18T14:32:55Z-00000-000
+Title: Students should be required to wear uniforms in all schools
+Text: My opponent failed to post an argument is several rounds....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Students-should-be-required-to-wear-uniforms-in-all-schools/1/'}
+
+Query ID: 9
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+10
+should vaccin requir children 
+Rank 1: Document 6c8d356f-2019-04-18T20:03:16Z-00005-000, Similarity Score: 0.8289196927978003
+Document ID: 6c8d356f-2019-04-18T20:03:16Z-00005-000
+Title: Not getting children vaccinated
+Text: I am in awe and opposed to people not getting their children vaccinated. Not getting children vaccin...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Not-getting-children-vaccinated/1/'}
+
+Rank 2: Document a70ffd6e-2019-04-18T15:13:01Z-00005-000, Similarity Score: 0.8230209114229214
+Document ID: a70ffd6e-2019-04-18T15:13:01Z-00005-000
+Title: vaccinating children must be a law
+Text: Children must be vaccinated it is a fact! 6 million lives if children are saved each year due to vac...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/vaccinating-children-must-be-a-law/1/'}
+
+Rank 3: Document 79f05a51-2019-04-18T14:20:37Z-00002-000, Similarity Score: 0.7994349318451774
+Document ID: 79f05a51-2019-04-18T14:20:37Z-00002-000
+Title: Children should receive vaccinations.
+Text: Children should receive vaccinations? Well, some vaccines are untrustworthy, and may even be harmful...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Children-should-receive-vaccinations./2/'}
+
+Rank 4: Document 79f05a51-2019-04-18T14:20:37Z-00002-000, Similarity Score: 0.7994349318451774
+Document ID: 79f05a51-2019-04-18T14:20:37Z-00002-000
+Title: Children should receive vaccinations.
+Text: Children should receive vaccinations? Well, some vaccines are untrustworthy, and may even be harmful...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Children-should-receive-vaccinations./2/'}
+
+Rank 5: Document 6c8d356f-2019-04-18T20:03:16Z-00003-000, Similarity Score: 0.7919001076164801
+Document ID: 6c8d356f-2019-04-18T20:03:16Z-00003-000
+Title: Not getting children vaccinated
+Text: Not true , there are ways to get around vaccinating your children before attending school. You can s...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Not-getting-children-vaccinated/1/'}
+
+Rank 6: Document 79f05a32-2019-04-18T15:09:09Z-00002-000, Similarity Score: 0.7864185543055952
+Document ID: 79f05a32-2019-04-18T15:09:09Z-00002-000
+Title: Children should receive vaccinations.
+Text: Our society needs to be healthy, we want it to be healthy.But does that mean that we start giving va...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Children-should-receive-vaccinations./1/'}
+
+Rank 7: Document a70ffd6e-2019-04-18T15:13:01Z-00002-000, Similarity Score: 0.7825377962459487
+Document ID: a70ffd6e-2019-04-18T15:13:01Z-00002-000
+Title: vaccinating children must be a law
+Text: Well now I just agree with you....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/vaccinating-children-must-be-a-law/1/'}
+
+Rank 8: Document 79f05a51-2019-04-18T14:20:37Z-00003-000, Similarity Score: 0.7823539727542027
+Document ID: 79f05a51-2019-04-18T14:20:37Z-00003-000
+Title: Children should receive vaccinations.
+Text: See above....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Children-should-receive-vaccinations./2/'}
+
+Rank 9: Document a70ffd6e-2019-04-18T15:13:01Z-00001-000, Similarity Score: 0.7799657852027151
+Document ID: a70ffd6e-2019-04-18T15:13:01Z-00001-000
+Title: vaccinating children must be a law
+Text: I don't really know what to say now......
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/vaccinating-children-must-be-a-law/1/'}
+
+Rank 10: Document a70ffd6e-2019-04-18T15:13:01Z-00003-000, Similarity Score: 0.7780635220156488
+Document ID: a70ffd6e-2019-04-18T15:13:01Z-00003-000
+Title: vaccinating children must be a law
+Text: It is true that some people can't be vaccinated due to allergies, BUT all other children should have...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/vaccinating-children-must-be-a-law/1/'}
+
+Query ID: 10
+Precision: 0.1, Recall: 1.0, F1: 0.18181818181818182
+
+11
+should performanceenhanc drug accept sport 
+Rank 1: Document f5b0db6a-2019-04-18T11:13:26Z-00002-000, Similarity Score: 0.8545063258017846
+Document ID: f5b0db6a-2019-04-18T11:13:26Z-00002-000
+Title: Drug Use in Sports
+Text: Oh great. . . . . Again. . . . . ....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Drug-Use-in-Sports/1/'}
+
+Rank 2: Document f5b0db6a-2019-04-18T11:13:26Z-00001-000, Similarity Score: 0.8545063258017846
+Document ID: f5b0db6a-2019-04-18T11:13:26Z-00001-000
+Title: Drug Use in Sports
+Text: Oh great. . . . . ....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Drug-Use-in-Sports/1/'}
+
+Rank 3: Document 6b570162-2019-04-19T12:47:54Z-00006-000, Similarity Score: 0.8395122314306118
+Document ID: 6b570162-2019-04-19T12:47:54Z-00006-000
+Title: Drugs in Sport
+Text: Freedom of choice. If athletes wish to take drugs in search of improved performances, let them do s....
+Metadata: {'stance': 'PRO', 'url': 'https://debatewise.org/debates/2512-drugs-in-sport/'}
+
+Rank 4: Document 6b570162-2019-04-19T12:47:54Z-00001-000, Similarity Score: 0.8368415998640291
+Document ID: 6b570162-2019-04-19T12:47:54Z-00001-000
+Title: Drugs in Sport
+Text: Bans increasingly fail to stand up in court. The whole legal basis for drugs-testing and the subseq....
+Metadata: {'stance': 'PRO', 'url': 'https://debatewise.org/debates/2512-drugs-in-sport/'}
+
+Rank 5: Document f5b0db6a-2019-04-18T11:13:26Z-00006-000, Similarity Score: 0.71141644532978
+Document ID: f5b0db6a-2019-04-18T11:13:26Z-00006-000
+Title: Drug Use in Sports
+Text: Drug use in sports poses a negative effect on the user's health. Enacting the legalization of drug u...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Drug-Use-in-Sports/1/'}
+
+Rank 6: Document 1c1c7401-2019-04-18T18:06:00Z-00001-000, Similarity Score: 0.6766433883107701
+Document ID: 1c1c7401-2019-04-18T18:06:00Z-00001-000
+Title: steriods in sports
+Text: Extending arguments....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/steriods-in-sports/1/'}
+
+Rank 7: Document 6f0ced96-2019-04-18T19:08:41Z-00001-000, Similarity Score: 0.6739978375108575
+Document ID: 6f0ced96-2019-04-18T19:08:41Z-00001-000
+Title: sports for money or sports for sports
+Text: Argument extended....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/sports-for-money-or-sports-for-sports/1/'}
+
+Rank 8: Document 6f0ced96-2019-04-18T19:08:41Z-00003-000, Similarity Score: 0.6654761960803428
+Document ID: 6f0ced96-2019-04-18T19:08:41Z-00003-000
+Title: sports for money or sports for sports
+Text: ill like to start after my oponent speaks!!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/sports-for-money-or-sports-for-sports/1/'}
+
+Rank 9: Document 6f0ced96-2019-04-18T19:08:41Z-00002-000, Similarity Score: 0.6635741540040984
+Document ID: 6f0ced96-2019-04-18T19:08:41Z-00002-000
+Title: sports for money or sports for sports
+Text: She is Con for sports for money and sports for sports. She has failed to give a reason why. Sports a...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/sports-for-money-or-sports-for-sports/1/'}
+
+Rank 10: Document 1c1c7401-2019-04-18T18:06:00Z-00000-000, Similarity Score: 0.6470176272386179
+Document ID: 1c1c7401-2019-04-18T18:06:00Z-00000-000
+Title: steriods in sports
+Text: Extending arguments, claiming victory....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/steriods-in-sports/1/'}
+
+Query ID: 11
+Precision: 0.0, Recall: 0.9545454545454546, F1: 0.0
+
+12
+should birth control pill avail counter 
+Rank 1: Document 8e214b94-2019-04-18T12:19:56Z-00001-000, Similarity Score: 0.6653172646895157
+Document ID: 8e214b94-2019-04-18T12:19:56Z-00001-000
+Title: Schools give out free birth control pills
+Text: I believe that birth control pills should be given out in schools because we don't want children!!! ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Schools-give-out-free-birth-control-pills/1/'}
+
+Rank 2: Document 8e214b94-2019-04-18T12:19:56Z-00001-000, Similarity Score: 0.6653172646895157
+Document ID: 8e214b94-2019-04-18T12:19:56Z-00001-000
+Title: Schools give out free birth control pills
+Text: I believe that birth control pills should be given out in schools because we don't want children!!! ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Schools-give-out-free-birth-control-pills/1/'}
+
+Rank 3: Document 8d834d48-2019-04-18T20:01:52Z-00000-000, Similarity Score: 0.6246973371370008
+Document ID: 8d834d48-2019-04-18T20:01:52Z-00000-000
+Title: teens should beallowed to get birth control
+Text: Yes but as I said in the last round teenagers will contiue to use birth control pills to not get in ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/teens-should-beallowed-to-get-birth-control/1/'}
+
+Rank 4: Document 8d834d48-2019-04-18T20:01:52Z-00002-000, Similarity Score: 0.5643342848925349
+Document ID: 8d834d48-2019-04-18T20:01:52Z-00002-000
+Title: teens should beallowed to get birth control
+Text: But come you can't expect teens to have sex to have any sort of right to have birth control pills? I...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/teens-should-beallowed-to-get-birth-control/1/'}
+
+Rank 5: Document 928f9e5e-2019-04-18T16:33:36Z-00005-000, Similarity Score: 0.5397000170849416
+Document ID: 928f9e5e-2019-04-18T16:33:36Z-00005-000
+Title: Banning the Pill
+Text: P1: Seventeen year olds do not need a prescription to have access to the morning after pill. P2: Any...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Banning-the-Pill/2/'}
+
+Rank 6: Document 3d9819c3-2019-04-18T18:25:50Z-00002-000, Similarity Score: 0.5345539165358565
+Document ID: 3d9819c3-2019-04-18T18:25:50Z-00002-000
+Title: Birth control pills, even as contraception, should be covered by health insurance.
+Text: Birth control is a "free will" medication. It's purpose is to allow a woman to engage in sexual inte...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Birth-control-pills-even-as-contraception-should-be-covered-by-health-insurance./1/'}
+
+Rank 7: Document 8e214b94-2019-04-18T12:19:56Z-00000-000, Similarity Score: 0.5208730072897617
+Document ID: 8e214b94-2019-04-18T12:19:56Z-00000-000
+Title: Schools give out free birth control pills
+Text: I would agree with you, but you need to understand that not every young couple is going to have unde...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Schools-give-out-free-birth-control-pills/1/'}
+
+Rank 8: Document 8e214b94-2019-04-18T12:19:56Z-00000-000, Similarity Score: 0.5208730072897617
+Document ID: 8e214b94-2019-04-18T12:19:56Z-00000-000
+Title: Schools give out free birth control pills
+Text: I would agree with you, but you need to understand that not every young couple is going to have unde...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Schools-give-out-free-birth-control-pills/1/'}
+
+Rank 9: Document 928f9e5e-2019-04-18T16:33:36Z-00004-000, Similarity Score: 0.5206794778603042
+Document ID: 928f9e5e-2019-04-18T16:33:36Z-00004-000
+Title: Banning the Pill
+Text: The morning after pill should not be banned. P1. It is true that the morning-after pill may act as a...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Banning-the-Pill/2/'}
+
+Rank 10: Document 3d9819c3-2019-04-18T18:25:50Z-00001-000, Similarity Score: 0.5111361943182356
+Document ID: 3d9819c3-2019-04-18T18:25:50Z-00001-000
+Title: Birth control pills, even as contraception, should be covered by health insurance.
+Text: Arguments extended to next round....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Birth-control-pills-even-as-contraception-should-be-covered-by-health-insurance./1/'}
+
+Query ID: 12
+Precision: 0.1, Recall: 0.9230769230769231, F1: 0.18045112781954886
+
+13
+can altern energi effect replac fossil fuel 
+Rank 1: Document 1baa36a6-2019-04-18T16:31:18Z-00005-000, Similarity Score: 0.7975099840907744
+Document ID: 1baa36a6-2019-04-18T16:31:18Z-00005-000
+Title: Can alternative energy effectively replace fossil fuels.
+Text: I believe that alternative energy will eventually replace fossils fuel as the most efficient source ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Can-alternative-energy-effectively-replace-fossil-fuels./1/'}
+
+Rank 2: Document 1baa36a6-2019-04-18T16:31:18Z-00003-000, Similarity Score: 0.7789771772334729
+Document ID: 1baa36a6-2019-04-18T16:31:18Z-00003-000
+Title: Can alternative energy effectively replace fossil fuels.
+Text: Fossil Fuels are a limited resource meaning that they will eventually run out. Because of this, ther...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Can-alternative-energy-effectively-replace-fossil-fuels./1/'}
+
+Rank 3: Document 1baa36a6-2019-04-18T16:31:18Z-00003-000, Similarity Score: 0.7789771772334729
+Document ID: 1baa36a6-2019-04-18T16:31:18Z-00003-000
+Title: Can alternative energy effectively replace fossil fuels.
+Text: Fossil Fuels are a limited resource meaning that they will eventually run out. Because of this, ther...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Can-alternative-energy-effectively-replace-fossil-fuels./1/'}
+
+Rank 4: Document 6e782a7f-2019-04-18T13:11:24Z-00003-000, Similarity Score: 0.7471064815242787
+Document ID: 6e782a7f-2019-04-18T13:11:24Z-00003-000
+Title: Can alternative energy replace fossil fuels
+Text: I affirm that alternative energy is the future of the world we live in. Alternative energy should re...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Can-alternative-energy-replace-fossil-fuels/1/'}
+
+Rank 5: Document 1baa36a6-2019-04-18T16:31:18Z-00001-000, Similarity Score: 0.6562788729295723
+Document ID: 1baa36a6-2019-04-18T16:31:18Z-00001-000
+Title: Can alternative energy effectively replace fossil fuels.
+Text: If what you are saying is electric cars are too expensive to be worth the environmental problems tha...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Can-alternative-energy-effectively-replace-fossil-fuels./1/'}
+
+Rank 6: Document 1baa36a6-2019-04-18T16:31:18Z-00000-000, Similarity Score: 0.5875894407475676
+Document ID: 1baa36a6-2019-04-18T16:31:18Z-00000-000
+Title: Can alternative energy effectively replace fossil fuels.
+Text: This was my project for science and besides your arguments are weak. Source: BBC article: How enviro...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Can-alternative-energy-effectively-replace-fossil-fuels./1/'}
+
+Rank 7: Document 8fdcc598-2019-04-18T19:16:21Z-00005-000, Similarity Score: 0.5452470694820981
+Document ID: 8fdcc598-2019-04-18T19:16:21Z-00005-000
+Title: The United States should change towards the use of alternative fuel and away from fossil fuels.
+Text: Here I will argue for the presumption that the United States should change towards the use of altern...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-United-States-should-change-towards-the-use-of-alternative-fuel-and-away-from-fossil-fuels./1/'}
+
+Rank 8: Document 4911d42e-2019-04-18T12:51:15Z-00001-000, Similarity Score: 0.5316740124324233
+Document ID: 4911d42e-2019-04-18T12:51:15Z-00001-000
+Title: Clean/Renewable Energy is the ideal source of energy (Over fossil fuels)
+Text: Okay, first, I will start off by stating my arguments, and introduce my topic. I believe renewable e...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Clean-Renewable-Energy-is-the-ideal-source-of-energy-Over-fossil-fuels/1/'}
+
+Rank 9: Document cb3a59ce-2019-04-18T13:56:11Z-00003-000, Similarity Score: 0.5238246555172139
+Document ID: cb3a59ce-2019-04-18T13:56:11Z-00003-000
+Title: Nuclear energy is better than fossil fuels
+Text: I think that because it is renewable it is better just want opinions and facts please...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Nuclear-energy-is-better-than-fossil-fuels/1/'}
+
+Rank 10: Document cb3a59ce-2019-04-18T13:56:11Z-00003-000, Similarity Score: 0.5238246555172139
+Document ID: cb3a59ce-2019-04-18T13:56:11Z-00003-000
+Title: Nuclear energy is better than fossil fuels
+Text: I think that because it is renewable it is better just want opinions and facts please...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Nuclear-energy-is-better-than-fossil-fuels/1/'}
+
+Query ID: 13
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+14
+is sexual orient determin birth 
+Rank 1: Document 3584cf5e-2019-04-18T12:25:29Z-00001-000, Similarity Score: 0.9219388058621725
+Document ID: 3584cf5e-2019-04-18T12:25:29Z-00001-000
+Title: Sexual orientation is determined at birth.
+Text: Sexual orientation IS determined at birth. How? You can easily see whether a baby has female or male...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-orientation-is-determined-at-birth./1/'}
+
+Rank 2: Document 3584cf5e-2019-04-18T12:25:29Z-00001-000, Similarity Score: 0.9219388058621725
+Document ID: 3584cf5e-2019-04-18T12:25:29Z-00001-000
+Title: Sexual orientation is determined at birth.
+Text: Sexual orientation IS determined at birth. How? You can easily see whether a baby has female or male...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-orientation-is-determined-at-birth./1/'}
+
+Rank 3: Document 3584cf5e-2019-04-18T12:25:29Z-00000-000, Similarity Score: 0.821149503289678
+Document ID: 3584cf5e-2019-04-18T12:25:29Z-00000-000
+Title: Sexual orientation is determined at birth.
+Text: Pro's argument about the female and male genitals seems to be a non-sequitur. Read what one is here....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Sexual-orientation-is-determined-at-birth./1/'}
+
+Rank 4: Document 3584cf5e-2019-04-18T12:25:29Z-00000-000, Similarity Score: 0.821149503289678
+Document ID: 3584cf5e-2019-04-18T12:25:29Z-00000-000
+Title: Sexual orientation is determined at birth.
+Text: Pro's argument about the female and male genitals seems to be a non-sequitur. Read what one is here....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Sexual-orientation-is-determined-at-birth./1/'}
+
+Rank 5: Document 7839a8e-2019-04-18T13:02:10Z-00002-000, Similarity Score: 0.6996114201240511
+Document ID: 7839a8e-2019-04-18T13:02:10Z-00002-000
+Title: Sexual Orientation is a choice.
+Text: Sexual orientation is something that people are born with....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Sexual-Orientation-is-a-choice./1/'}
+
+Rank 6: Document 3bc0ea4-2019-04-18T15:39:06Z-00000-000, Similarity Score: 0.6735149263096697
+Document ID: 3bc0ea4-2019-04-18T15:39:06Z-00000-000
+Title: Sexual orientation is not a choice
+Text: I think I win...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-orientation-is-not-a-choice/1/'}
+
+Rank 7: Document 2771aba0-2019-04-18T15:29:45Z-00000-000, Similarity Score: 0.6527759235339508
+Document ID: 2771aba0-2019-04-18T15:29:45Z-00000-000
+Title: Sexual orientation doesn't originate only from biology
+Text: 1. My opponent in Round 2 mentioned some environmental and physical conditions under which people's ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Sexual-orientation-doesnt-originate-only-from-biology/1/'}
+
+Rank 8: Document 88021be-2019-04-18T17:47:30Z-00004-000, Similarity Score: 0.6253786604836579
+Document ID: 88021be-2019-04-18T17:47:30Z-00004-000
+Title: Sexual Orientation is a choice
+Text: I have read the comments for this debate and I will not make it unfair by starting with my argument....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-Orientation-is-a-choice/1/'}
+
+Rank 9: Document 88021be-2019-04-18T17:47:30Z-00004-000, Similarity Score: 0.6253786604836579
+Document ID: 88021be-2019-04-18T17:47:30Z-00004-000
+Title: Sexual Orientation is a choice
+Text: I have read the comments for this debate and I will not make it unfair by starting with my argument....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-Orientation-is-a-choice/1/'}
+
+Rank 10: Document 13176601-2019-04-18T17:19:14Z-00002-000, Similarity Score: 0.6192167770365709
+Document ID: 13176601-2019-04-18T17:19:14Z-00002-000
+Title: Sexual orientation
+Text: I am sorry to say, that I don't understand what we are debating about. Are we debating about if homo...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Sexual-orientation/1/'}
+
+Query ID: 14
+Precision: 0.2, Recall: 0.8421052631578947, F1: 0.32323232323232326
+
+15
+should anim use scientif commerci test 
+Rank 1: Document 3e6f0cf1-2019-04-18T16:00:16Z-00005-000, Similarity Score: 0.9874956561687521
+Document ID: 3e6f0cf1-2019-04-18T16:00:16Z-00005-000
+Title: Animals Should Be Used For Scientific or Commercial Testing.
+Text: I believe that animals should be used for scientific and commercial purposes( animal testing). Con m...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Animals-Should-Be-Used-For-Scientific-or-Commercial-Testing./1/'}
+
+Rank 2: Document 3e6f0cf1-2019-04-18T16:00:16Z-00004-000, Similarity Score: 0.9426903828506521
+Document ID: 3e6f0cf1-2019-04-18T16:00:16Z-00004-000
+Title: Animals Should Be Used For Scientific or Commercial Testing.
+Text: I will argue that animals should not be used for scientific/commercial testing. I am rather on the f...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Animals-Should-Be-Used-For-Scientific-or-Commercial-Testing./1/'}
+
+Rank 3: Document 7ef1e9dc-2019-04-18T18:28:00Z-00001-000, Similarity Score: 0.613119066581442
+Document ID: 7ef1e9dc-2019-04-18T18:28:00Z-00001-000
+Title: Animals should be used for testing
+Text: My opponent forfeited. Extend my arguments....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Animals-should-be-used-for-testing/1/'}
+
+Rank 4: Document b5e9eaa8-2019-04-18T15:24:16Z-00003-000, Similarity Score: 0.6044632786425348
+Document ID: b5e9eaa8-2019-04-18T15:24:16Z-00003-000
+Title: Commercial Debate
+Text: This commercial is very emotional, and nostalgic, since it deals with an event that we all are going...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Commercial-Debate/1/'}
+
+Rank 5: Document b5e9eaa8-2019-04-18T15:24:16Z-00003-000, Similarity Score: 0.6044632786425348
+Document ID: b5e9eaa8-2019-04-18T15:24:16Z-00003-000
+Title: Commercial Debate
+Text: This commercial is very emotional, and nostalgic, since it deals with an event that we all are going...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Commercial-Debate/1/'}
+
+Rank 6: Document b5e9eaa8-2019-04-18T15:24:16Z-00001-000, Similarity Score: 0.595818517460091
+Document ID: b5e9eaa8-2019-04-18T15:24:16Z-00001-000
+Title: Commercial Debate
+Text: I do think that was little long, but the dog commercial left me with tears. This commercial cannot b...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Commercial-Debate/1/'}
+
+Rank 7: Document b5e9eaa8-2019-04-18T15:24:16Z-00002-000, Similarity Score: 0.5950562543839814
+Document ID: b5e9eaa8-2019-04-18T15:24:16Z-00002-000
+Title: Commercial Debate
+Text: If you would consider this a commercial, it an emotionally devastating commercial that illustrates t...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Commercial-Debate/1/'}
+
+Rank 8: Document 7ef1e9fb-2019-04-18T11:22:45Z-00001-000, Similarity Score: 0.5919543219791246
+Document ID: 7ef1e9fb-2019-04-18T11:22:45Z-00001-000
+Title: Animals should be used for testing
+Text: Computers have been known to fail, and animals are only ineffective from the use of non-mammalian sp...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Animals-should-be-used-for-testing/2/'}
+
+Rank 9: Document 3e6f0cf1-2019-04-18T16:00:16Z-00000-000, Similarity Score: 0.5918215359660808
+Document ID: 3e6f0cf1-2019-04-18T16:00:16Z-00000-000
+Title: Animals Should Be Used For Scientific or Commercial Testing.
+Text: Thanks Pro. I. Plagiarism I don't have much to add on this, 95% of my opponent's previous round was ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Animals-Should-Be-Used-For-Scientific-or-Commercial-Testing./1/'}
+
+Rank 10: Document fe530ecb-2019-04-18T16:32:33Z-00001-000, Similarity Score: 0.5876487287428599
+Document ID: fe530ecb-2019-04-18T16:32:33Z-00001-000
+Title: Animal testing
+Text: Come on...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Animal-testing/25/'}
+
+Query ID: 15
+Precision: 0.1, Recall: 1.0, F1: 0.18181818181818182
+
+16
+should prescript drug advertis directli consum 
+Rank 1: Document 6a050331-2019-04-18T18:57:24Z-00005-000, Similarity Score: 0.7418420834978362
+Document ID: 6a050331-2019-04-18T18:57:24Z-00005-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: The power of the media broadcast is astronomical, and I believe there is an adversarial element put ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 2: Document 6a050331-2019-04-18T18:57:24Z-00005-000, Similarity Score: 0.7418420834978362
+Document ID: 6a050331-2019-04-18T18:57:24Z-00005-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: The power of the media broadcast is astronomical, and I believe there is an adversarial element put ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 3: Document 6a050331-2019-04-18T18:57:24Z-00000-000, Similarity Score: 0.7290648202951211
+Document ID: 6a050331-2019-04-18T18:57:24Z-00000-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: Extend all my arguments....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 4: Document 6a050331-2019-04-18T18:57:24Z-00003-000, Similarity Score: 0.7282955495193494
+Document ID: 6a050331-2019-04-18T18:57:24Z-00003-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: I extend all of my arguments. -Thank you...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 5: Document 6a050331-2019-04-18T18:57:24Z-00002-000, Similarity Score: 0.7265664138536065
+Document ID: 6a050331-2019-04-18T18:57:24Z-00002-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: Hope my opponent shows up eventually....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 6: Document 6a050331-2019-04-18T18:57:24Z-00004-000, Similarity Score: 0.6494142128713882
+Document ID: 6a050331-2019-04-18T18:57:24Z-00004-000
+Title: In Canada drug companies should not be allowed 2 advertise prescription drugs directly to public
+Text: I agree with my opponent's point that the media's power is astronomical. A patient trusts their doct...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/In-Canada-drug-companies-should-not-be-allowed-2-advertise-prescription-drugs-directly-to-public/1/'}
+
+Rank 7: Document 8cb27dbc-2019-04-15T20:22:42Z-00001-000, Similarity Score: 0.5535954425909884
+Document ID: 8cb27dbc-2019-04-15T20:22:42Z-00001-000
+Title: allow pharmaceutical companies to advertise directly to consumers
+Text: Advertising puts pressure on doctors to prescribe inappropriate drugs to their patients...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/economy-business-health-health-general/house-would-allow-pharmaceutical-companies'}
+
+Rank 8: Document 8cb27dbc-2019-04-15T20:22:42Z-00002-000, Similarity Score: 0.5110140080425181
+Document ID: 8cb27dbc-2019-04-15T20:22:42Z-00002-000
+Title: allow pharmaceutical companies to advertise directly to consumers
+Text: Creating a mentality of illness...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/economy-business-health-health-general/house-would-allow-pharmaceutical-companies'}
+
+Rank 9: Document 6c346857-2019-04-18T15:32:52Z-00002-000, Similarity Score: 0.4760141065542972
+Document ID: 6c346857-2019-04-18T15:32:52Z-00002-000
+Title: Advertising should be BANNED from TV and Radio
+Text: Thanks for instigating this debate. Since this is a normative question, the burden of proof is share...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Advertising-should-be-BANNED-from-TV-and-Radio/1/'}
+
+Rank 10: Document 6c503906-2019-04-19T12:45:38Z-00015-000, Similarity Score: 0.4634617972454246
+Document ID: 6c503906-2019-04-19T12:45:38Z-00015-000
+Title: The price of prescription drugs is fair in proportion to what they prevent.
+Text: The purpose of prescription drugs must be remembered. Arguably they prevent against the development ...
+Metadata: {'stance': 'PRO', 'url': 'https://debatewise.org/debates/478-are-prescription-drugs-overpriced/'}
+
+Query ID: 16
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+17
+should recreat marijuana legal 
+Rank 1: Document d3fcb97c-2019-04-18T17:00:53Z-00005-000, Similarity Score: 0.9970197691300005
+Document ID: d3fcb97c-2019-04-18T17:00:53Z-00005-000
+Title: Legalization of Recreational Marijuana
+Text: I accept!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalization-of-Recreational-Marijuana/1/'}
+
+Rank 2: Document d3fcb97c-2019-04-18T17:00:53Z-00002-000, Similarity Score: 0.9950502902687706
+Document ID: d3fcb97c-2019-04-18T17:00:53Z-00002-000
+Title: Legalization of Recreational Marijuana
+Text: OF COURSE!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalization-of-Recreational-Marijuana/1/'}
+
+Rank 3: Document 665dddb1-2019-04-18T14:39:12Z-00000-000, Similarity Score: 0.977039343202733
+Document ID: 665dddb1-2019-04-18T14:39:12Z-00000-000
+Title: Recreational Marijuana Legalization
+Text: My opponent has forfeited so I will accept the victory....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Recreational-Marijuana-Legalization/2/'}
+
+Rank 4: Document 665dddb1-2019-04-18T14:39:12Z-00000-000, Similarity Score: 0.977039343202733
+Document ID: 665dddb1-2019-04-18T14:39:12Z-00000-000
+Title: Recreational Marijuana Legalization
+Text: My opponent has forfeited so I will accept the victory....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Recreational-Marijuana-Legalization/2/'}
+
+Rank 5: Document fad1e930-2019-04-18T14:45:25Z-00000-000, Similarity Score: 0.9633133289414819
+Document ID: fad1e930-2019-04-18T14:45:25Z-00000-000
+Title: Marijuana should be legal for recreational use
+Text: Arguments extended....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Marijuana-should-be-legal-for-recreational-use/1/'}
+
+Rank 6: Document 99d62d9d-2019-04-18T14:32:36Z-00008-000, Similarity Score: 0.9626501534524915
+Document ID: 99d62d9d-2019-04-18T14:32:36Z-00008-000
+Title: Marijuana should be legalized for recreational use
+Text: I accept your challenge....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Marijuana-should-be-legalized-for-recreational-use/4/'}
+
+Rank 7: Document 99d62d9d-2019-04-18T14:32:36Z-00009-000, Similarity Score: 0.9496004969449925
+Document ID: 99d62d9d-2019-04-18T14:32:36Z-00009-000
+Title: Marijuana should be legalized for recreational use
+Text: Hello and thank you for joining my debate I will be arguing in favor of legalizing marijuana for rec...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Marijuana-should-be-legalized-for-recreational-use/4/'}
+
+Rank 8: Document e833dcb-2019-04-18T14:32:54Z-00005-000, Similarity Score: 0.9496004969449925
+Document ID: e833dcb-2019-04-18T14:32:54Z-00005-000
+Title: Marijuana should be legalized for recreation use
+Text: Hello and thank you for joining my debate I will be arguing in favor of legalizing marijuana for rec...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Marijuana-should-be-legalized-for-recreation-use/1/'}
+
+Rank 9: Document 2a5141f4-2019-04-18T12:43:08Z-00002-000, Similarity Score: 0.9430842443948443
+Document ID: 2a5141f4-2019-04-18T12:43:08Z-00002-000
+Title: Recreational Marijuana Should Be Legal
+Text: Recreational use of Marijuana is an ever-present issue in our time. With the recent voting in this e...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Recreational-Marijuana-Should-Be-Legal/1/'}
+
+Rank 10: Document fad1e930-2019-04-18T14:45:25Z-00002-000, Similarity Score: 0.9380641424540477
+Document ID: fad1e930-2019-04-18T14:45:25Z-00002-000
+Title: Marijuana should be legal for recreational use
+Text: I'd like to apologize to my opponent, but I am unable to submit my arguments at this time....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Marijuana-should-be-legal-for-recreational-use/1/'}
+
+Query ID: 17
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+18
+should church remain taxexempt 
+Rank 1: Document 109256e6-2019-04-18T16:58:22Z-00005-000, Similarity Score: 0.6581428663990021
+Document ID: 109256e6-2019-04-18T16:58:22Z-00005-000
+Title: Non-Denominational churches are not the most reliable churches
+Text: I do not believe that non-denominational churches are reliable churches. They seem to only preach wh...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Non-Denominational-churches-are-not-the-most-reliable-churches/1/'}
+
+Rank 2: Document 109256e6-2019-04-18T16:58:22Z-00003-000, Similarity Score: 0.6337026977794312
+Document ID: 109256e6-2019-04-18T16:58:22Z-00003-000
+Title: Non-Denominational churches are not the most reliable churches
+Text: I just believe that since the doctrine is not very accurate, the churches are not very reliable when...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Non-Denominational-churches-are-not-the-most-reliable-churches/1/'}
+
+Rank 3: Document 7b1f96e0-2019-04-18T18:36:42Z-00008-000, Similarity Score: 0.6239895404315596
+Document ID: 7b1f96e0-2019-04-18T18:36:42Z-00008-000
+Title: The Catholic Church IS the ONE TRUE CHURCH
+Text: I will accept. The Catholic Church is not the one true church. I will show that the Catholic Church ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Catholic-Church-IS-the-ONE-TRUE-CHURCH/1/'}
+
+Rank 4: Document d6297ccc-2019-04-18T14:56:45Z-00005-000, Similarity Score: 0.6238347253314444
+Document ID: d6297ccc-2019-04-18T14:56:45Z-00005-000
+Title: The Church is or isn"t good
+Text: Could we say the Church is really beneficial for people? What I mean is that, what does the Church r...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Church-is-or-isn-t-good/1/'}
+
+Rank 5: Document c7e1115e-2019-04-18T16:21:35Z-00007-000, Similarity Score: 0.6215096212590759
+Document ID: c7e1115e-2019-04-18T16:21:35Z-00007-000
+Title: The Catholic Church is the Authentic Church of Christ
+Text: God our Father wills that "all men be saved and come to the knowledge of the Truth" (1 Timothy 2:4),...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-Catholic-Church-is-the-Authentic-Church-of-Christ/1/'}
+
+Rank 6: Document d6297ccc-2019-04-18T14:56:45Z-00000-000, Similarity Score: 0.6170378491563525
+Document ID: d6297ccc-2019-04-18T14:56:45Z-00000-000
+Title: The Church is or isn"t good
+Text: Most of the things you are saying are good, are part ot religion and I"m not talking about religion....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Church-is-or-isn-t-good/1/'}
+
+Rank 7: Document e94891f6-2019-04-18T18:49:23Z-00008-000, Similarity Score: 0.6163980274426214
+Document ID: e94891f6-2019-04-18T18:49:23Z-00008-000
+Title: The Catholic Church is the only true Church
+Text: Arguments are posted in the second round. The Catholic Church - The Church that is in communion with...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-Catholic-Church-is-the-only-true-Church/1/'}
+
+Rank 8: Document 109256e6-2019-04-18T16:58:22Z-00004-000, Similarity Score: 0.6105483097952281
+Document ID: 109256e6-2019-04-18T16:58:22Z-00004-000
+Title: Non-Denominational churches are not the most reliable churches
+Text: I guess since this is an acceptance round I would merely like to clarify that the topic is non-denom...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Non-Denominational-churches-are-not-the-most-reliable-churches/1/'}
+
+Rank 9: Document 922fd121-2019-04-18T12:41:45Z-00006-000, Similarity Score: 0.605554998587758
+Document ID: 922fd121-2019-04-18T12:41:45Z-00006-000
+Title: The church of Christ is the only church one must be in to be saved.
+Text: Debate accepted....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-church-of-Christ-is-the-only-church-one-must-be-in-to-be-saved./2/'}
+
+Rank 10: Document 7b1f96e0-2019-04-18T18:36:42Z-00009-000, Similarity Score: 0.6047911478710409
+Document ID: 7b1f96e0-2019-04-18T18:36:42Z-00009-000
+Title: The Catholic Church IS the ONE TRUE CHURCH
+Text: Many people like to say that the Catholic Church is evil, corrupt and is not Christian but all these...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-Catholic-Church-IS-the-ONE-TRUE-CHURCH/1/'}
+
+Query ID: 18
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+19
+should gay marriag legal 
+Rank 1: Document b331228f-2019-04-18T17:24:03Z-00004-000, Similarity Score: 1.0
+Document ID: b331228f-2019-04-18T17:24:03Z-00004-000
+Title: Legalization of gay marriage
+Text: Me....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Legalization-of-gay-marriage/4/'}
+
+Rank 2: Document 9bfef1a5-2019-04-18T15:29:10Z-00002-000, Similarity Score: 0.9952472792168827
+Document ID: 9bfef1a5-2019-04-18T15:29:10Z-00002-000
+Title: Gay Marriage Should Be Legal
+Text: I accept....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gay-Marriage-Should-Be-Legal/42/'}
+
+Rank 3: Document 3d1f441b-2019-04-18T16:28:43Z-00004-000, Similarity Score: 0.9952472792168827
+Document ID: 3d1f441b-2019-04-18T16:28:43Z-00004-000
+Title: Gay Marriage legalization
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gay-Marriage-legalization/2/'}
+
+Rank 4: Document db2d81f2-2019-04-18T18:05:42Z-00008-000, Similarity Score: 0.9952472792168827
+Document ID: db2d81f2-2019-04-18T18:05:42Z-00008-000
+Title: Legalization of Gay Marriage
+Text: I accept. :)...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Legalization-of-Gay-Marriage/1/'}
+
+Rank 5: Document 3d1f441b-2019-04-18T16:28:43Z-00000-000, Similarity Score: 0.9923690922179524
+Document ID: 3d1f441b-2019-04-18T16:28:43Z-00000-000
+Title: Gay Marriage legalization
+Text: I win...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gay-Marriage-legalization/2/'}
+
+Rank 6: Document 9bfef25f-2019-04-18T13:27:14Z-00001-000, Similarity Score: 0.9923690922179524
+Document ID: 9bfef25f-2019-04-18T13:27:14Z-00001-000
+Title: Gay Marriage Should Be Legal
+Text: I win!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gay-Marriage-Should-Be-Legal/48/'}
+
+Rank 7: Document ea2e9e22-2019-04-18T16:28:43Z-00000-000, Similarity Score: 0.9923690922179524
+Document ID: ea2e9e22-2019-04-18T16:28:43Z-00000-000
+Title: Gay marriage should be legal
+Text: I win...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gay-marriage-should-be-legal/34/'}
+
+Rank 8: Document f54ab53a-2019-04-18T12:48:18Z-00006-000, Similarity Score: 0.9922288371804803
+Document ID: f54ab53a-2019-04-18T12:48:18Z-00006-000
+Title: Should Gay Marriage Be Legal
+Text: Should Gay Marriage be allowed...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-Gay-Marriage-Be-Legal/32/'}
+
+Rank 9: Document f54ab53a-2019-04-18T12:48:18Z-00006-000, Similarity Score: 0.9922288371804803
+Document ID: f54ab53a-2019-04-18T12:48:18Z-00006-000
+Title: Should Gay Marriage Be Legal
+Text: Should Gay Marriage be allowed...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-Gay-Marriage-Be-Legal/32/'}
+
+Rank 10: Document 7f10e5b7-2019-04-18T18:42:06Z-00001-000, Similarity Score: 0.9913622061285883
+Document ID: 7f10e5b7-2019-04-18T18:42:06Z-00001-000
+Title: Gay marriage should be legalized
+Text: End of debate....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gay-marriage-should-be-legalized/4/'}
+
+Query ID: 19
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+20
+is drink milk healthi human 
+Rank 1: Document 3f566289-2019-04-18T13:21:59Z-00008-000, Similarity Score: 0.7463478047448361
+Document ID: 3f566289-2019-04-18T13:21:59Z-00008-000
+Title: Should we drink milk
+Text: I have drank milk most of my life and although as mace says it doesn't help your bones it tastes goo...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-we-drink-milk/1/'}
+
+Rank 2: Document 7c7b248b-2019-04-18T15:09:21Z-00003-000, Similarity Score: 0.6465987693059867
+Document ID: 7c7b248b-2019-04-18T15:09:21Z-00003-000
+Title: choc. milk in schools
+Text: Chocolate milk contains more sugar and calories than regular milk, and in today's day and age there ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/choc.-milk-in-schools/1/'}
+
+Rank 3: Document 6b79d6dc-2019-04-18T16:35:35Z-00002-000, Similarity Score: 0.6408240152991346
+Document ID: 6b79d6dc-2019-04-18T16:35:35Z-00002-000
+Title: Milk Cartons
+Text: Forfeited....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Milk-Cartons/1/'}
+
+Rank 4: Document 6b79d6dc-2019-04-18T16:35:35Z-00001-000, Similarity Score: 0.6408240152991346
+Document ID: 6b79d6dc-2019-04-18T16:35:35Z-00001-000
+Title: Milk Cartons
+Text: Forfeited....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Milk-Cartons/1/'}
+
+Rank 5: Document 6b79d6dc-2019-04-18T16:35:35Z-00000-000, Similarity Score: 0.6408240152991346
+Document ID: 6b79d6dc-2019-04-18T16:35:35Z-00000-000
+Title: Milk Cartons
+Text: Forfeited....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Milk-Cartons/1/'}
+
+Rank 6: Document 6b79d6dc-2019-04-18T16:35:35Z-00005-000, Similarity Score: 0.6225692208326046
+Document ID: 6b79d6dc-2019-04-18T16:35:35Z-00005-000
+Title: Milk Cartons
+Text: Should a gallon of milk have two handles?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Milk-Cartons/1/'}
+
+Rank 7: Document f63b76cb-2019-04-18T16:55:02Z-00001-000, Similarity Score: 0.6109097492371305
+Document ID: f63b76cb-2019-04-18T16:55:02Z-00001-000
+Title: Chocolate milk is healthy.
+Text: Instigator has forfeited this round. I will hold my argument in case he wishes to continue....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Chocolate-milk-is-healthy./1/'}
+
+Rank 8: Document f63b76cb-2019-04-18T16:55:02Z-00001-000, Similarity Score: 0.6109097492371305
+Document ID: f63b76cb-2019-04-18T16:55:02Z-00001-000
+Title: Chocolate milk is healthy.
+Text: Instigator has forfeited this round. I will hold my argument in case he wishes to continue....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Chocolate-milk-is-healthy./1/'}
+
+Rank 9: Document f63b76cb-2019-04-18T16:55:02Z-00000-000, Similarity Score: 0.6108866574838423
+Document ID: f63b76cb-2019-04-18T16:55:02Z-00000-000
+Title: Chocolate milk is healthy.
+Text: Instigator has yet again forfeited. I will conclude that he could not think of a valid argument....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Chocolate-milk-is-healthy./1/'}
+
+Rank 10: Document f63b76cb-2019-04-18T16:55:02Z-00000-000, Similarity Score: 0.6108866574838423
+Document ID: f63b76cb-2019-04-18T16:55:02Z-00000-000
+Title: Chocolate milk is healthy.
+Text: Instigator has yet again forfeited. I will conclude that he could not think of a valid argument....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Chocolate-milk-is-healthy./1/'}
+
+Query ID: 20
+Precision: 0.0, Recall: 0.9411764705882353, F1: 0.0
+
+21
+is human activ primarili respons global climat chang 
+Rank 1: Document a5cb0429-2019-04-18T19:47:04Z-00004-000, Similarity Score: 0.6665172224007335
+Document ID: a5cb0429-2019-04-18T19:47:04Z-00004-000
+Title: global climate change is human caused
+Text: Humans are causing the rise in clobal temperature, which if not stopped will result in global warmin...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/global-climate-change-is-human-caused/1/'}
+
+Rank 2: Document a5cb0429-2019-04-18T19:47:04Z-00002-000, Similarity Score: 0.6356676192292654
+Document ID: a5cb0429-2019-04-18T19:47:04Z-00002-000
+Title: global climate change is human caused
+Text: Yes it is true that Global Warming cannot be stopped. It is also true that it has recently gone up m...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/global-climate-change-is-human-caused/1/'}
+
+Rank 3: Document ff5b0936-2019-04-18T12:09:41Z-00001-000, Similarity Score: 0.5996357792629903
+Document ID: ff5b0936-2019-04-18T12:09:41Z-00001-000
+Title: Climate change is happening and is caused by human activity
+Text: This will be a debate about whether man-made climate change is currently occurring and how it will a...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Climate-change-is-happening-and-is-caused-by-human-activity/2/'}
+
+Rank 4: Document 9c07825d-2019-04-18T13:31:03Z-00000-000, Similarity Score: 0.5779201350701576
+Document ID: 9c07825d-2019-04-18T13:31:03Z-00000-000
+Title: Is Human Activity an addition to increased Global Warming/Climate Change
+Text: Thank you for your quick response. Your position was human activity is an addition to increased Glob...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Is-Human-Activity-an-addition-to-increased-Global-Warming-Climate-Change/1/'}
+
+Rank 5: Document ff5b0936-2019-04-18T12:09:41Z-00000-000, Similarity Score: 0.5734394646966541
+Document ID: ff5b0936-2019-04-18T12:09:41Z-00000-000
+Title: Climate change is happening and is caused by human activity
+Text: I believe that climate change is serious and urgent problem facing us today. In my opinion it is cau...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Climate-change-is-happening-and-is-caused-by-human-activity/2/'}
+
+Rank 6: Document e505d905-2019-04-18T16:03:11Z-00006-000, Similarity Score: 0.5723862204938822
+Document ID: e505d905-2019-04-18T16:03:11Z-00006-000
+Title: That Humans Are Causing Climate Change
+Text: I accept....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/That-Humans-Are-Causing-Climate-Change/1/'}
+
+Rank 7: Document 4733bf42-2019-04-18T15:17:57Z-00005-000, Similarity Score: 0.5664693256991032
+Document ID: 4733bf42-2019-04-18T15:17:57Z-00005-000
+Title: Climate Change is man caused
+Text: My position on climate change is that not only do I believe in it but I believe it is man caused. I ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Climate-Change-is-man-caused/1/'}
+
+Rank 8: Document 4733bf42-2019-04-18T15:17:57Z-00005-000, Similarity Score: 0.5664693256991032
+Document ID: 4733bf42-2019-04-18T15:17:57Z-00005-000
+Title: Climate Change is man caused
+Text: My position on climate change is that not only do I believe in it but I believe it is man caused. I ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Climate-Change-is-man-caused/1/'}
+
+Rank 9: Document e505d905-2019-04-18T16:03:11Z-00007-000, Similarity Score: 0.5604747601287288
+Document ID: e505d905-2019-04-18T16:03:11Z-00007-000
+Title: That Humans Are Causing Climate Change
+Text: Lets keep this professional....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/That-Humans-Are-Causing-Climate-Change/1/'}
+
+Rank 10: Document f96a16ca-2019-04-18T17:06:23Z-00003-000, Similarity Score: 0.5531038177312124
+Document ID: f96a16ca-2019-04-18T17:06:23Z-00003-000
+Title: are developed counteries more responsible for climatic changes than develloping or underdevelloped
+Text: i think develloped counteries are responsible for the climatical changes as they are more populated ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/are-developed-counteries-more-responsible-for-climatic-changes-than-develloping-or-underdevelloped/1/'}
+
+Query ID: 21
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+22
+is twostat solut accept solut israelipalestinian conflict 
+Rank 1: Document 402902df-2019-04-17T11:47:31Z-00029-000, Similarity Score: 0.9200807519904917
+Document ID: 402902df-2019-04-17T11:47:31Z-00029-000
+Title: Two-state solution to Israeli-Palestinian conflict
+Text: One state is more peaceful then a two state solution....
+Metadata: {'stance': 'CON', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 2: Document 402902df-2019-04-17T11:47:31Z-00020-000, Similarity Score: 0.894349093232331
+Document ID: 402902df-2019-04-17T11:47:31Z-00020-000
+Title: Two-state solution to Israeli-Palestinian conflict
+Text: Two-state solution would alienate Palestinians in Israel....
+Metadata: {'stance': 'CON', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 3: Document 402902df-2019-04-17T11:47:31Z-00002-000, Similarity Score: 0.8895821851138686
+Document ID: 402902df-2019-04-17T11:47:31Z-00002-000
+Title: Two-state solution to Israeli-Palestinian conflict
+Text: Israeli settlements make a two-state solution impossible...
+Metadata: {'stance': 'CON', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 4: Document 402902df-2019-04-17T11:47:31Z-00009-000, Similarity Score: 0.8865197651025432
+Document ID: 402902df-2019-04-17T11:47:31Z-00009-000
+Title: Two-state solution to Israeli-Palestinian conflict
+Text: Two-state solution offers adequate territory to Palestinians...
+Metadata: {'stance': 'PRO', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 5: Document 402902df-2019-04-17T11:47:31Z-00027-000, Similarity Score: 0.835050622995991
+Document ID: 402902df-2019-04-17T11:47:31Z-00027-000
+Title: Two-state solution to Israeli-Palestinian conflict
+Text: One-state would see Israeli minority ruling over Palestinian majority...
+Metadata: {'stance': 'PRO', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 6: Document 2cc38a7d-2019-04-19T12:45:25Z-00013-000, Similarity Score: 0.7411313247206582
+Document ID: 2cc38a7d-2019-04-19T12:45:25Z-00013-000
+Title: No solution to the conflict
+Text: Extra-judicial killing is illegal, immoral, contributes in no way to a solution to the Israeli-Pales...
+Metadata: {'stance': 'PRO', 'url': 'https://debatewise.org/debates/1686-should-mossad-carry-out-extrajudicial-killings/'}
+
+Rank 7: Document 8d325e50-2019-04-15T20:22:20Z-00005-000, Similarity Score: 0.7316973192526296
+Document ID: 8d325e50-2019-04-15T20:22:20Z-00005-000
+Title: in the conflict between Israel and Palestine, a two-state solution is better justified than a one-state solution
+Text: A two-state solution is best for peace...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/international-middle-east/house-believes-conflict-between-israel-and-palestine-two-state'}
+
+Rank 8: Document 2aec7682-2019-04-18T12:37:26Z-00007-000, Similarity Score: 0.6654921545125657
+Document ID: 2aec7682-2019-04-18T12:37:26Z-00007-000
+Title: every problem does not have a solution
+Text: there exists problems who's solution doesn't exists....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/every-problem-does-not-have-a-solution/1/'}
+
+Rank 9: Document 402902df-2019-04-17T11:47:31Z-00038-000, Similarity Score: 0.6542645520612882
+Document ID: 402902df-2019-04-17T11:47:31Z-00038-000
+Title: General statements in support of a two-state solution
+Text: US special envoy George Mitchell: "In the case of the Israeli-Palestinian conflict, we believe that ...
+Metadata: {'stance': 'PRO', 'url': 'http://www.debatepedia.org/en/index.php/Debate:_Two-state_solution_to_Israeli-Palestinian_conflict'}
+
+Rank 10: Document 3b38021e-2019-04-18T11:38:27Z-00000-000, Similarity Score: 0.6515048872524192
+Document ID: 3b38021e-2019-04-18T11:38:27Z-00000-000
+Title: Is a Two-State Solution (Israel and Palestine) an Acceptable Solution to the Israeli-Palestinian Con
+Text: http://articles.latimes.com... I ask the voters on this debate to consider this when voting on condu...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Is-a-Two-State-Solution-Israel-and-Palestine-an-Acceptable-Solution-to-the-Israeli-Palestinian-Con/2/'}
+
+Query ID: 22
+Precision: 0.0, Recall: 0.8666666666666667, F1: 0.0
+
+23
+should euthanasia physicianassist suicid legal 
+Rank 1: Document dccf7263-2019-04-18T16:52:37Z-00001-000, Similarity Score: 0.9961058219563836
+Document ID: dccf7263-2019-04-18T16:52:37Z-00001-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: I extend my arguments....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 2: Document dccf7263-2019-04-18T16:52:37Z-00000-000, Similarity Score: 0.9961058219563836
+Document ID: dccf7263-2019-04-18T16:52:37Z-00000-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: I extend my arguments again....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 3: Document dccf7263-2019-04-18T16:52:37Z-00004-000, Similarity Score: 0.9769944381693549
+Document ID: dccf7263-2019-04-18T16:52:37Z-00004-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: I accept!Euthanasia and Physician-Assisted Suicide should be legal in extreme cases where the patien...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 4: Document dccf7263-2019-04-18T16:52:37Z-00002-000, Similarity Score: 0.8950242611287698
+Document ID: dccf7263-2019-04-18T16:52:37Z-00002-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: Not all pain can be alleviated with palliative care, so both assisted suicide and palliative care sh...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 5: Document dccf7263-2019-04-18T16:52:37Z-00002-000, Similarity Score: 0.8950242611287698
+Document ID: dccf7263-2019-04-18T16:52:37Z-00002-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: Not all pain can be alleviated with palliative care, so both assisted suicide and palliative care sh...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 6: Document dccf7263-2019-04-18T16:52:37Z-00003-000, Similarity Score: 0.8670811266442866
+Document ID: dccf7263-2019-04-18T16:52:37Z-00003-000
+Title: Legalizing Euthanasia or Physician-Assisted Suicide
+Text: If the patient is suffering from an extreme amount of pain, they may enter palliative care. Palliati...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Legalizing-Euthanasia-or-Physician-Assisted-Suicide/1/'}
+
+Rank 7: Document 4f51142c-2019-04-18T15:23:59Z-00003-000, Similarity Score: 0.7760581855686217
+Document ID: 4f51142c-2019-04-18T15:23:59Z-00003-000
+Title: Resolved: The United States Federal Government should legalize Physician Assisted Suicide.
+Text: I will readdress his doctor's opinion's on PAS in my second contention. Contention 1: Unreported Eut...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Resolved-The-United-States-Federal-Government-should-legalize-Physician-Assisted-Suicide./1/'}
+
+Rank 8: Document 84a6fafa-2019-04-18T14:47:38Z-00005-000, Similarity Score: 0.762656016258653
+Document ID: 84a6fafa-2019-04-18T14:47:38Z-00005-000
+Title: Resolved: The United States Federal Government should legalize Euthanasia.
+Text: Contention 1: Unreported Euthanasia and Euthanasia without consent. I shall begin by giving you the ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Resolved-The-United-States-Federal-Government-should-legalize-Euthanasia./2/'}
+
+Rank 9: Document 84a6fafa-2019-04-18T14:47:38Z-00005-000, Similarity Score: 0.762656016258653
+Document ID: 84a6fafa-2019-04-18T14:47:38Z-00005-000
+Title: Resolved: The United States Federal Government should legalize Euthanasia.
+Text: Contention 1: Unreported Euthanasia and Euthanasia without consent. I shall begin by giving you the ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Resolved-The-United-States-Federal-Government-should-legalize-Euthanasia./2/'}
+
+Rank 10: Document cf401f08-2019-04-18T15:17:34Z-00004-000, Similarity Score: 0.7603517750378774
+Document ID: cf401f08-2019-04-18T15:17:34Z-00004-000
+Title: euthanasia
+Text: Contention 1: Unreported Euthanasia and Euthanasia without consent. I shall begin by giving you the ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/euthanasia/57/'}
+
+Query ID: 23
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+24
+doe lower feder corpor incom tax rate creat job 
+Rank 1: Document 5c336b56-2019-04-18T14:30:50Z-00003-000, Similarity Score: 0.5481892479171442
+Document ID: 5c336b56-2019-04-18T14:30:50Z-00003-000
+Title: Corporate Tax Should be Lowered
+Text: Your main argument encompasses the negatives of a lower Corporate Tax paired with the ability to cre...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporate-Tax-Should-be-Lowered/1/'}
+
+Rank 2: Document 5c336b56-2019-04-18T14:30:50Z-00003-000, Similarity Score: 0.5481892479171442
+Document ID: 5c336b56-2019-04-18T14:30:50Z-00003-000
+Title: Corporate Tax Should be Lowered
+Text: Your main argument encompasses the negatives of a lower Corporate Tax paired with the ability to cre...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporate-Tax-Should-be-Lowered/1/'}
+
+Rank 3: Document 2c183942-2019-04-18T16:35:26Z-00001-000, Similarity Score: 0.5097178914802736
+Document ID: 2c183942-2019-04-18T16:35:26Z-00001-000
+Title: Cut the Corporate Tax Rate to 0%
+Text: I'm talking state, local, and federal taxes. They're rates are higher than they've been in ages. The...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Cut-the-Corporate-Tax-Rate-to-0/1/'}
+
+Rank 4: Document 2c183942-2019-04-18T16:35:26Z-00004-000, Similarity Score: 0.5090609813407763
+Document ID: 2c183942-2019-04-18T16:35:26Z-00004-000
+Title: Cut the Corporate Tax Rate to 0%
+Text: Corporate tax rates are too high and are causing business uncertainty. Taxes on the 1 percent are at...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Cut-the-Corporate-Tax-Rate-to-0/1/'}
+
+Rank 5: Document 2c183942-2019-04-18T16:35:26Z-00004-000, Similarity Score: 0.5090609813407763
+Document ID: 2c183942-2019-04-18T16:35:26Z-00004-000
+Title: Cut the Corporate Tax Rate to 0%
+Text: Corporate tax rates are too high and are causing business uncertainty. Taxes on the 1 percent are at...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Cut-the-Corporate-Tax-Rate-to-0/1/'}
+
+Rank 6: Document 46dd5281-2019-04-18T14:41:08Z-00008-000, Similarity Score: 0.4988152531673327
+Document ID: 46dd5281-2019-04-18T14:41:08Z-00008-000
+Title: Muay thai is better than tae kwon doe
+Text: Im here to say that muay thai is better than the popular tae kwond doe. Me in my opinion thinks tae ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Muay-thai-is-better-than-tae-kwon-doe/1/'}
+
+Rank 7: Document 5c336b56-2019-04-18T14:30:50Z-00001-000, Similarity Score: 0.4910294081082236
+Document ID: 5c336b56-2019-04-18T14:30:50Z-00001-000
+Title: Corporate Tax Should be Lowered
+Text: Your entire debate is based around a moral premise. It is factually undebatable that a lower corpora...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporate-Tax-Should-be-Lowered/1/'}
+
+Rank 8: Document ebea7596-2019-04-18T16:04:14Z-00003-000, Similarity Score: 0.4864078787859308
+Document ID: ebea7596-2019-04-18T16:04:14Z-00003-000
+Title: Corporate Tax Should be Abolished
+Text: Thank you AdamCass, I will quote my opponents arguments and try to refute each one individually. 1."...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporate-Tax-Should-be-Abolished/2/'}
+
+Rank 9: Document 46dd5281-2019-04-18T14:41:08Z-00002-000, Similarity Score: 0.4860787319639026
+Document ID: 46dd5281-2019-04-18T14:41:08Z-00002-000
+Title: Muay thai is better than tae kwon doe
+Text: Con claims that tae kwon doe is superior to muay thai since it is more safe. Which is true but no ma...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Muay-thai-is-better-than-tae-kwon-doe/1/'}
+
+Rank 10: Document ebea7596-2019-04-18T16:04:14Z-00005-000, Similarity Score: 0.47013104522317767
+Document ID: ebea7596-2019-04-18T16:04:14Z-00005-000
+Title: Corporate Tax Should be Abolished
+Text: Thank you AdamCass. It is important to remember that a corporation is not a single entity, but a gro...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Corporate-Tax-Should-be-Abolished/2/'}
+
+Query ID: 24
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+26
+do standard test improv educ 
+Rank 1: Document fd3c1a15-2019-04-18T14:07:33Z-00001-000, Similarity Score: 0.5160764859785563
+Document ID: fd3c1a15-2019-04-18T14:07:33Z-00001-000
+Title: on balance standardized testing is benifical for k-12 education
+Text: Hello! my name is Thomas brooks and I stand in affirmation of the resolved, On balance, standardized...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/on-balance-standardized-testing-is-benifical-for-k-12-education/1/'}
+
+Rank 2: Document 440fb971-2019-04-18T17:06:22Z-00008-000, Similarity Score: 0.48059959391726126
+Document ID: 440fb971-2019-04-18T17:06:22Z-00008-000
+Title: Education: Testing
+Text: Standardized testing, if anything, has not improved student achievement. In 2002, the US slipped fro...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Education-Testing/1/'}
+
+Rank 3: Document b760077b-2019-04-18T13:01:46Z-00004-000, Similarity Score: 0.48030544875389714
+Document ID: b760077b-2019-04-18T13:01:46Z-00004-000
+Title: Standardized Tests
+Text: Standardized tests should be used from Grades 1-12. Round 1- first point/accept Round 2- debate " " ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Standardized-Tests/3/'}
+
+Rank 4: Document ab3b5048-2019-04-18T14:01:05Z-00001-000, Similarity Score: 0.4725826935186939
+Document ID: ab3b5048-2019-04-18T14:01:05Z-00001-000
+Title: Resolved: On balance, standardized testing is beneficial to K-12 education in the United States
+Text: Support for the Pro position of this resolution if bountiful and defensible in a properly framed deb...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-On-balance-standardized-testing-is-beneficial-to-K-12-education-in-the-United-States/1/'}
+
+Rank 5: Document ab3b5048-2019-04-18T14:01:05Z-00001-000, Similarity Score: 0.4725826935186939
+Document ID: ab3b5048-2019-04-18T14:01:05Z-00001-000
+Title: Resolved: On balance, standardized testing is beneficial to K-12 education in the United States
+Text: Support for the Pro position of this resolution if bountiful and defensible in a properly framed deb...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-On-balance-standardized-testing-is-beneficial-to-K-12-education-in-the-United-States/1/'}
+
+Rank 6: Document b760075c-2019-04-18T17:06:45Z-00002-000, Similarity Score: 0.47051225253589674
+Document ID: b760075c-2019-04-18T17:06:45Z-00002-000
+Title: Standardized Tests
+Text: While standardized testing has long been criticized in all sorts of manners, but the fact of the mat...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Standardized-Tests/2/'}
+
+Rank 7: Document ab3b5048-2019-04-18T14:01:05Z-00007-000, Similarity Score: 0.46654059692475447
+Document ID: ab3b5048-2019-04-18T14:01:05Z-00007-000
+Title: Resolved: On balance, standardized testing is beneficial to K-12 education in the United States
+Text: Standardized Testing is Good Issitt 15 Standardized Testing: An Overview. By: Issitt, Micah L., McMa...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-On-balance-standardized-testing-is-beneficial-to-K-12-education-in-the-United-States/1/'}
+
+Rank 8: Document a331003f-2019-04-18T14:04:49Z-00005-000, Similarity Score: 0.4650200844809444
+Document ID: a331003f-2019-04-18T14:04:49Z-00005-000
+Title: On balance, standardized testing is beneficial to K-12 education in the United States
+Text: By accepting this match, you agree to follow the process below: Round 1: Present Debate Cases Round ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/On-balance-standardized-testing-is-beneficial-to-K-12-education-in-the-United-States/1/'}
+
+Rank 9: Document 9bab90c3-2019-04-18T17:06:03Z-00000-000, Similarity Score: 0.4584176894594929
+Document ID: 9bab90c3-2019-04-18T17:06:03Z-00000-000
+Title: Test
+Text: This hasn't been much of a debate. Let me sum up my opinion to the voters, though, to garner their v...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Test/20/'}
+
+Rank 10: Document b760077b-2019-04-18T13:01:46Z-00000-000, Similarity Score: 0.4579647701402812
+Document ID: b760077b-2019-04-18T13:01:46Z-00000-000
+Title: Standardized Tests
+Text: My opponent is worried that students will only do well on standardized tests and it won't improve an...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Standardized-Tests/3/'}
+
+Query ID: 26
+Precision: 0.3, Recall: 0.8695652173913043, F1: 0.446096654275093
+
+27
+should gun control law enact 
+Rank 1: Document 6910d58f-2019-04-18T17:00:20Z-00003-000, Similarity Score: 0.7031267493517042
+Document ID: 6910d58f-2019-04-18T17:00:20Z-00003-000
+Title: Gun control laws
+Text: I am in favour of gun control laws and welcome an enjoyable debate....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gun-control-laws/2/'}
+
+Rank 2: Document 90dc256e-2019-04-18T16:43:44Z-00004-000, Similarity Score: 0.6949372529804125
+Document ID: 90dc256e-2019-04-18T16:43:44Z-00004-000
+Title: Gun Control Laws
+Text: I accept your terms. Thank you for hosting this debate Pro!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gun-Control-Laws/3/'}
+
+Rank 3: Document 90dc256e-2019-04-18T16:43:44Z-00005-000, Similarity Score: 0.6746574237409466
+Document ID: 90dc256e-2019-04-18T16:43:44Z-00005-000
+Title: Gun Control Laws
+Text: Studies show that gun control laws lead to a lower firearm murder rate in the United States. I am st...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gun-Control-Laws/3/'}
+
+Rank 4: Document 934989d9-2019-04-18T11:38:17Z-00001-000, Similarity Score: 0.6637373264381208
+Document ID: 934989d9-2019-04-18T11:38:17Z-00001-000
+Title: There should more gun laws enacted in the U.S !
+Text: There should be more gun laws enacted in the U.S! Armed civilians are unlikely to stop crimes and ar...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-more-gun-laws-enacted-in-the-U.S/1/'}
+
+Rank 5: Document 934989d9-2019-04-18T11:38:17Z-00001-000, Similarity Score: 0.6637373264381208
+Document ID: 934989d9-2019-04-18T11:38:17Z-00001-000
+Title: There should more gun laws enacted in the U.S !
+Text: There should be more gun laws enacted in the U.S! Armed civilians are unlikely to stop crimes and ar...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-more-gun-laws-enacted-in-the-U.S/1/'}
+
+Rank 6: Document 934989d9-2019-04-18T11:38:17Z-00001-000, Similarity Score: 0.6637373264381208
+Document ID: 934989d9-2019-04-18T11:38:17Z-00001-000
+Title: There should more gun laws enacted in the U.S !
+Text: There should be more gun laws enacted in the U.S! Armed civilians are unlikely to stop crimes and ar...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/There-should-more-gun-laws-enacted-in-the-U.S/1/'}
+
+Rank 7: Document 90dc256e-2019-04-18T16:43:44Z-00000-000, Similarity Score: 0.6631499525860259
+Document ID: 90dc256e-2019-04-18T16:43:44Z-00000-000
+Title: Gun Control Laws
+Text: Pro has not established evidence for his arguments. Pro has not refuted my arguments supported by ev...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gun-Control-Laws/3/'}
+
+Rank 8: Document 90dc2530-2019-04-18T20:02:12Z-00002-000, Similarity Score: 0.6590344305599906
+Document ID: 90dc2530-2019-04-18T20:02:12Z-00002-000
+Title: Gun Control Laws
+Text: The laws that are in place make the guns illegal, that is why they are called "illegal guns." Withou...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gun-Control-Laws/1/'}
+
+Rank 9: Document 90dc2530-2019-04-18T20:02:12Z-00002-000, Similarity Score: 0.6590344305599906
+Document ID: 90dc2530-2019-04-18T20:02:12Z-00002-000
+Title: Gun Control Laws
+Text: The laws that are in place make the guns illegal, that is why they are called "illegal guns." Withou...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Gun-Control-Laws/1/'}
+
+Rank 10: Document ea8c0f6d-2019-04-18T11:49:18Z-00007-000, Similarity Score: 0.6586211705067961
+Document ID: ea8c0f6d-2019-04-18T11:49:18Z-00007-000
+Title: Gun Control
+Text: I am arguing that gun control laws should not be implamented in the united states of america, and th...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Gun-Control/176/'}
+
+Query ID: 27
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+28
+should prostitut legal 
+Rank 1: Document 94b678b-2019-04-18T16:48:46Z-00000-000, Similarity Score: 1.0
+Document ID: 94b678b-2019-04-18T16:48:46Z-00000-000
+Title: Prostitution should be legalized
+Text: k...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Prostitution-should-be-legalized/11/'}
+
+Rank 2: Document 94b678b-2019-04-18T16:48:46Z-00001-000, Similarity Score: 1.0
+Document ID: 94b678b-2019-04-18T16:48:46Z-00001-000
+Title: Prostitution should be legalized
+Text: quitter...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Prostitution-should-be-legalized/11/'}
+
+Rank 3: Document a4429b52-2019-04-18T17:41:28Z-00000-000, Similarity Score: 1.0
+Document ID: a4429b52-2019-04-18T17:41:28Z-00000-000
+Title: Prostitution Should Be Legal
+Text: kk...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Prostitution-Should-Be-Legal/1/'}
+
+Rank 4: Document 6c53db90-2019-04-18T16:50:44Z-00001-000, Similarity Score: 0.9953066373798591
+Document ID: 6c53db90-2019-04-18T16:50:44Z-00001-000
+Title: prostitution should be legal
+Text: conclusion: prostitution should be legal :)...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/prostitution-should-be-legal/3/'}
+
+Rank 5: Document 66ec5f29-2019-04-18T15:01:11Z-00000-000, Similarity Score: 0.9926890260508103
+Document ID: 66ec5f29-2019-04-18T15:01:11Z-00000-000
+Title: Legalized Prostitution
+Text: done...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Legalized-Prostitution/2/'}
+
+Rank 6: Document 31806999-2019-04-18T16:58:21Z-00003-000, Similarity Score: 0.991131008554692
+Document ID: 31806999-2019-04-18T16:58:21Z-00003-000
+Title: Legalize Prostitution
+Text: Prostitution is bad....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Legalize-Prostitution/2/'}
+
+Rank 7: Document a4429c4a-2019-04-18T13:39:27Z-00003-000, Similarity Score: 0.9897653770751387
+Document ID: a4429c4a-2019-04-18T13:39:27Z-00003-000
+Title: Prostitution Should Be Legal
+Text: Extend...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Prostitution-Should-Be-Legal/9/'}
+
+Rank 8: Document a4429c4a-2019-04-18T13:39:27Z-00002-000, Similarity Score: 0.9897653770751387
+Document ID: a4429c4a-2019-04-18T13:39:27Z-00002-000
+Title: Prostitution Should Be Legal
+Text: Extend...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Prostitution-Should-Be-Legal/9/'}
+
+Rank 9: Document f2b77005-2019-04-18T14:36:34Z-00003-000, Similarity Score: 0.9897653770751387
+Document ID: f2b77005-2019-04-18T14:36:34Z-00003-000
+Title: Prostitution Should be Legalized
+Text: Extend....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Prostitution-Should-be-Legalized/17/'}
+
+Rank 10: Document f2b77005-2019-04-18T14:36:34Z-00002-000, Similarity Score: 0.9897653770751387
+Document ID: f2b77005-2019-04-18T14:36:34Z-00002-000
+Title: Prostitution Should be Legalized
+Text: :( Extend....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Prostitution-Should-be-Legalized/17/'}
+
+Query ID: 28
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+29
+should govern allow illeg immigr becom citizen 
+Rank 1: Document cac6bfdf-2019-04-18T12:31:47Z-00001-000, Similarity Score: 0.7048659245822845
+Document ID: cac6bfdf-2019-04-18T12:31:47Z-00001-000
+Title: Illegal Immigration
+Text: I accept....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Illegal-Immigration/16/'}
+
+Rank 2: Document 12fb1301-2019-04-18T18:48:52Z-00003-000, Similarity Score: 0.7045061194656015
+Document ID: 12fb1301-2019-04-18T18:48:52Z-00003-000
+Title: illegal immigration
+Text: views on illegal immigration...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/illegal-immigration/9/'}
+
+Rank 3: Document cac6bf25-2019-04-18T18:34:08Z-00006-000, Similarity Score: 0.6995240112677049
+Document ID: cac6bf25-2019-04-18T18:34:08Z-00006-000
+Title: Illegal Immigration
+Text: This is a debate between illegal immigration. I am against it, my opponent will be for it. Round 1 i...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Illegal-Immigration/10/'}
+
+Rank 4: Document cac6bf25-2019-04-18T18:34:08Z-00006-000, Similarity Score: 0.6995240112677049
+Document ID: cac6bf25-2019-04-18T18:34:08Z-00006-000
+Title: Illegal Immigration
+Text: This is a debate between illegal immigration. I am against it, my opponent will be for it. Round 1 i...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Illegal-Immigration/10/'}
+
+Rank 5: Document 59ad9eee-2019-04-18T17:17:47Z-00001-000, Similarity Score: 0.6987772066930087
+Document ID: 59ad9eee-2019-04-18T17:17:47Z-00001-000
+Title: Illegal Immigrants
+Text: I extend my arguments....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Illegal-Immigrants/3/'}
+
+Rank 6: Document f44bcd7f-2019-04-18T11:45:00Z-00000-000, Similarity Score: 0.6950080526590243
+Document ID: f44bcd7f-2019-04-18T11:45:00Z-00000-000
+Title: Should illegal immigrants be allowed to live in the U.S.
+Text: Of course not, it is in the title illegal. If something is illegal it isn't allowed. Immigrants are ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-illegal-immigrants-be-allowed-to-live-in-the-U.S./1/'}
+
+Rank 7: Document 59ad9eee-2019-04-18T17:17:47Z-00000-000, Similarity Score: 0.6925717905737944
+Document ID: 59ad9eee-2019-04-18T17:17:47Z-00000-000
+Title: Illegal Immigrants
+Text: Extend and conclude....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Illegal-Immigrants/3/'}
+
+Rank 8: Document f44bcd7f-2019-04-18T11:45:00Z-00001-000, Similarity Score: 0.6893318193046426
+Document ID: f44bcd7f-2019-04-18T11:45:00Z-00001-000
+Title: Should illegal immigrants be allowed to live in the U.S.
+Text: I think that most immigrants should be allowed in the U.S....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-illegal-immigrants-be-allowed-to-live-in-the-U.S./1/'}
+
+Rank 9: Document cac6bf82-2019-04-18T17:37:42Z-00004-000, Similarity Score: 0.6876875316983971
+Document ID: cac6bf82-2019-04-18T17:37:42Z-00004-000
+Title: Illegal Immigration
+Text: I will be arguing that immigration is detrimental to society....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Illegal-Immigration/13/'}
+
+Rank 10: Document cac6bfdf-2019-04-18T12:31:47Z-00002-000, Similarity Score: 0.687598947616905
+Document ID: cac6bfdf-2019-04-18T12:31:47Z-00002-000
+Title: Illegal Immigration
+Text: To be clear, I am saying that illegal immigrants should be allowed to stay in the U. S. and apply fo...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Illegal-Immigration/16/'}
+
+Query ID: 29
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+30
+should adult right carri conceal handgun 
+Rank 1: Document 5c976881-2019-04-18T18:22:18Z-00008-000, Similarity Score: 0.7465692993462165
+Document ID: 5c976881-2019-04-18T18:22:18Z-00008-000
+Title: Conceal handgun laws reduce violent crime
+Text: "If I see any semantics on this point you automatically lose.If there is any semantics with the titl...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 2: Document 5c976881-2019-04-18T18:22:18Z-00008-000, Similarity Score: 0.7465692993462165
+Document ID: 5c976881-2019-04-18T18:22:18Z-00008-000
+Title: Conceal handgun laws reduce violent crime
+Text: "If I see any semantics on this point you automatically lose.If there is any semantics with the titl...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 3: Document 5c976881-2019-04-18T18:22:18Z-00006-000, Similarity Score: 0.7245681885337719
+Document ID: 5c976881-2019-04-18T18:22:18Z-00006-000
+Title: Conceal handgun laws reduce violent crime
+Text: Unfortunately, it is clear that we agree. Furthermore, it is obvious that this disagreement stems fr...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 4: Document 5c976881-2019-04-18T18:22:18Z-00006-000, Similarity Score: 0.7245681885337719
+Document ID: 5c976881-2019-04-18T18:22:18Z-00006-000
+Title: Conceal handgun laws reduce violent crime
+Text: Unfortunately, it is clear that we agree. Furthermore, it is obvious that this disagreement stems fr...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 5: Document 5c976881-2019-04-18T18:22:18Z-00000-000, Similarity Score: 0.7167923289685493
+Document ID: 5c976881-2019-04-18T18:22:18Z-00000-000
+Title: Conceal handgun laws reduce violent crime
+Text: The instigator is insisting that discussing definitions amounts to semantics, when defining terms is...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 6: Document 5c976881-2019-04-18T18:22:18Z-00004-000, Similarity Score: 0.6715321787031822
+Document ID: 5c976881-2019-04-18T18:22:18Z-00004-000
+Title: Conceal handgun laws reduce violent crime
+Text: "My opponent claims I argued his side, but it was clear that I am for conceal carry, and it appears ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Conceal-handgun-laws-reduce-violent-crime/1/'}
+
+Rank 7: Document 9f12e0e6-2019-04-18T15:26:02Z-00003-000, Similarity Score: 0.6684615224084173
+Document ID: 9f12e0e6-2019-04-18T15:26:02Z-00003-000
+Title: Adults, without violence related felonies, should have the right to carry a concealed firearm.
+Text: To start out carrying a concealed handgun in public is permitted in all 50 states as of 2013, when I...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Adults-without-violence-related-felonies-should-have-the-right-to-carry-a-concealed-firearm./1/'}
+
+Rank 8: Document 9f12e0e6-2019-04-18T15:26:02Z-00003-000, Similarity Score: 0.6684615224084173
+Document ID: 9f12e0e6-2019-04-18T15:26:02Z-00003-000
+Title: Adults, without violence related felonies, should have the right to carry a concealed firearm.
+Text: To start out carrying a concealed handgun in public is permitted in all 50 states as of 2013, when I...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Adults-without-violence-related-felonies-should-have-the-right-to-carry-a-concealed-firearm./1/'}
+
+Rank 9: Document a29a39c-2019-04-18T11:41:47Z-00001-000, Similarity Score: 0.6619830620584427
+Document ID: a29a39c-2019-04-18T11:41:47Z-00001-000
+Title: I think that concealed carry should not be allowed. Prove me wrong
+Text: Carrying concealed handguns are used more for criminal homicides than homicides. According to the vi...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/I-think-that-concealed-carry-should-not-be-allowed.-Prove-me-wrong/1/'}
+
+Rank 10: Document ead0d54d-2019-04-18T16:54:45Z-00003-000, Similarity Score: 0.6394746788141896
+Document ID: ead0d54d-2019-04-18T16:54:45Z-00003-000
+Title: 18 year olds with concealed handguns
+Text: Dude I am debating to have 18 years allowed to get a handgun with papers legally. So when the cop do...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/18-year-olds-with-concealed-handguns/1/'}
+
+Query ID: 30
+Precision: 0.2, Recall: 0.9473684210526315, F1: 0.3302752293577982
+
+31
+is obes diseas 
+Rank 1: Document c3cbe7d1-2019-04-18T13:12:52Z-00000-000, Similarity Score: 0.9929120156211628
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00000-000
+Title: Obesity is a disease
+Text: Lovely....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 2: Document c3cbe7d1-2019-04-18T13:12:52Z-00001-000, Similarity Score: 0.987391934360595
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00001-000
+Title: Obesity is a disease
+Text: Nice....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 3: Document c3cbe7d1-2019-04-18T13:12:52Z-00003-000, Similarity Score: 0.9337738550981689
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00003-000
+Title: Obesity is a disease
+Text: I accept! Thank you for instigating this debate, @AndDontCallMeShirley. Good luck to my oponent......
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 4: Document c3cbe7d1-2019-04-18T13:12:52Z-00002-000, Similarity Score: 0.904606029573503
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00002-000
+Title: Obesity is a disease
+Text: This rule is in place because the opponent will be arguing in the affirmative—and he who argues in t...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 5: Document c3cbe7d1-2019-04-18T13:12:52Z-00002-000, Similarity Score: 0.904606029573503
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00002-000
+Title: Obesity is a disease
+Text: This rule is in place because the opponent will be arguing in the affirmative—and he who argues in t...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 6: Document 21e2b85c-2019-04-18T15:17:47Z-00005-000, Similarity Score: 0.8747020646679455
+Document ID: 21e2b85c-2019-04-18T15:17:47Z-00005-000
+Title: Obesity is not a disease, it's a choice.
+Text: What is obesity? Obesity is a medical condition in which excess body fat has accumulated to the exte...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Obesity-is-not-a-disease-its-a-choice./1/'}
+
+Rank 7: Document b5b096db-2019-04-18T18:54:54Z-00001-000, Similarity Score: 0.8734118864264446
+Document ID: b5b096db-2019-04-18T18:54:54Z-00001-000
+Title: Obesity is a disease.
+Text: Majority of the population will loose weight if they eat healthy and exercise as i stated originally...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease./1/'}
+
+Rank 8: Document c3cbe7d1-2019-04-18T13:12:52Z-00004-000, Similarity Score: 0.8119701233602132
+Document ID: c3cbe7d1-2019-04-18T13:12:52Z-00004-000
+Title: Obesity is a disease
+Text: Resolution: "Obesity [1] is a disease [2]."I will be arguing against the resolution. My opponent wil...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease/1/'}
+
+Rank 9: Document 636669d7-2019-04-18T19:49:10Z-00000-000, Similarity Score: 0.7925961163759973
+Document ID: 636669d7-2019-04-18T19:49:10Z-00000-000
+Title: Parents Should be Blamed for Their Child's Obesity
+Text: YEAH IM KNEW TO THIS WHOLE DEBATE THING..... OKAY MY OPPONENT SAID that diseases were out of the deb...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Parents-Should-be-Blamed-for-Their-Child-s-Obesity/1/'}
+
+Rank 10: Document b5b096db-2019-04-18T18:54:54Z-00005-000, Similarity Score: 0.7851154900986768
+Document ID: b5b096db-2019-04-18T18:54:54Z-00005-000
+Title: Obesity is a disease.
+Text: Obesity is not a disease. Obesity is a lifestyle. People chose what to put into there bodies. No one...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Obesity-is-a-disease./1/'}
+
+Query ID: 31
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+32
+do electron vote machin improv vote process 
+Rank 1: Document 2c05e9fb-2019-04-15T20:23:05Z-00016-000, Similarity Score: 0.4716000720762443
+Document ID: 2c05e9fb-2019-04-15T20:23:05Z-00016-000
+Title: Electronic voting will create a more cost effective franchise
+Text: The elderly far more frequently find electronic voting to be a hindrance rather than a help. Those w...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-allow-use-electronic-and-internet'}
+
+Rank 2: Document f5fd15c9-2019-04-18T16:39:21Z-00000-000, Similarity Score: 0.46302282062674577
+Document ID: f5fd15c9-2019-04-18T16:39:21Z-00000-000
+Title: leggings/fashion
+Text: Vote for me....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/leggings-fashion/1/'}
+
+Rank 3: Document 668c95a5-2019-04-18T13:58:05Z-00000-000, Similarity Score: 0.46302282062674577
+Document ID: 668c95a5-2019-04-18T13:58:05Z-00000-000
+Title: terrosim
+Text: Vote for ME!!!!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/terrosim/1/'}
+
+Rank 4: Document 2c05e9fb-2019-04-15T20:23:05Z-00009-000, Similarity Score: 0.4340552265450297
+Document ID: 2c05e9fb-2019-04-15T20:23:05Z-00009-000
+Title: allow the use of electronic and internet voting in state-organised elections
+Text: Electronic voting can make the franchise more accessible...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-allow-use-electronic-and-internet'}
+
+Rank 5: Document 2c05e9fb-2019-04-15T20:23:05Z-00004-000, Similarity Score: 0.4335057861498851
+Document ID: 2c05e9fb-2019-04-15T20:23:05Z-00004-000
+Title: allow the use of electronic and internet voting in state-organised elections
+Text: Electronic voting is vulnerable to fraud and subversion...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-allow-use-electronic-and-internet'}
+
+Rank 6: Document 2c05e9fb-2019-04-15T20:23:05Z-00017-000, Similarity Score: 0.4203714530023737
+Document ID: 2c05e9fb-2019-04-15T20:23:05Z-00017-000
+Title: Electronic voting will create a more cost effective franchise
+Text: Electronic voting would also save a great deal of money which is currently spent on employing counte...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-allow-use-electronic-and-internet'}
+
+Rank 7: Document 881ca447-2019-04-18T15:18:28Z-00000-000, Similarity Score: 0.40317256114446826
+Document ID: 881ca447-2019-04-18T15:18:28Z-00000-000
+Title: WHY electronics should be alloud in school
+Text: Error 404: Opponent not found.Kindly vote accordingly....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/WHY-electronics-should-be-alloud-in-school/1/'}
+
+Rank 8: Document 881ca447-2019-04-18T15:18:28Z-00000-000, Similarity Score: 0.40317256114446826
+Document ID: 881ca447-2019-04-18T15:18:28Z-00000-000
+Title: WHY electronics should be alloud in school
+Text: Error 404: Opponent not found.Kindly vote accordingly....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/WHY-electronics-should-be-alloud-in-school/1/'}
+
+Rank 9: Document f6ba8a72-2019-04-18T11:17:30Z-00001-000, Similarity Score: 0.40045452022219963
+Document ID: f6ba8a72-2019-04-18T11:17:30Z-00001-000
+Title: For zhaod to get voting priveleges
+Text: so zhaod can vote...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/For-zhaod-to-get-voting-priveleges/1/'}
+
+Rank 10: Document 2c05e9fb-2019-04-15T20:23:05Z-00000-000, Similarity Score: 0.3889473643943021
+Document ID: 2c05e9fb-2019-04-15T20:23:05Z-00000-000
+Title: allow the use of electronic and internet voting in state-organised elections
+Text: Engagement with democracy...
+Metadata: {'stance': 'CON', 'url': 'https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-allow-use-electronic-and-internet'}
+
+Query ID: 32
+Precision: 0.4, Recall: 1.0, F1: 0.5714285714285715
+
+33
+should peopl becom vegetarian 
+Rank 1: Document ac45b77d-2019-04-18T13:38:21Z-00002-000, Similarity Score: 0.8982902746641002
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00002-000
+Title: The World Should Become Vegetarian
+Text: sure thing...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 2: Document ac45b77d-2019-04-18T13:38:21Z-00000-000, Similarity Score: 0.8967492367766413
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00000-000
+Title: The World Should Become Vegetarian
+Text: ok...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 3: Document 7eabc63c-2019-04-18T12:18:12Z-00003-000, Similarity Score: 0.887790350603596
+Document ID: 7eabc63c-2019-04-18T12:18:12Z-00003-000
+Title: Should People Become Vegetarian
+Text: Many people disagree over the topic of Should People Become Vegetarian as it is controversial issue....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-People-Become-Vegetarian/1/'}
+
+Rank 4: Document ac45b77d-2019-04-18T13:38:21Z-00008-000, Similarity Score: 0.88681026152852
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00008-000
+Title: The World Should Become Vegetarian
+Text: I'll let the challenger make the first statement....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 5: Document ac45b77d-2019-04-18T13:38:21Z-00001-000, Similarity Score: 0.8812619846715783
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00001-000
+Title: The World Should Become Vegetarian
+Text: Yep....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 6: Document 2e8edad3-2019-04-18T18:39:06Z-00006-000, Similarity Score: 0.8726005579411025
+Document ID: 2e8edad3-2019-04-18T18:39:06Z-00006-000
+Title: Vegetarianism
+Text: Kk...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Vegetarianism/5/'}
+
+Rank 7: Document 2e8edaf2-2019-04-18T17:50:40Z-00007-000, Similarity Score: 0.8680545690222745
+Document ID: 2e8edaf2-2019-04-18T17:50:40Z-00007-000
+Title: Vegetarianism
+Text: I accept....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Vegetarianism/6/'}
+
+Rank 8: Document ac45b77d-2019-04-18T13:38:21Z-00003-000, Similarity Score: 0.8674238354115895
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00003-000
+Title: The World Should Become Vegetarian
+Text: My opponent cannot seem to find fault in my argument. Well, thanks anyway for debating me....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 9: Document ac45b77d-2019-04-18T13:38:21Z-00003-000, Similarity Score: 0.8674238354115895
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00003-000
+Title: The World Should Become Vegetarian
+Text: My opponent cannot seem to find fault in my argument. Well, thanks anyway for debating me....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Rank 10: Document ac45b77d-2019-04-18T13:38:21Z-00007-000, Similarity Score: 0.8622391875829205
+Document ID: ac45b77d-2019-04-18T13:38:21Z-00007-000
+Title: The World Should Become Vegetarian
+Text: I sincerely believe the world should not become vegetarian, for one, it's just not natural. Swearing...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-World-Should-Become-Vegetarian/1/'}
+
+Query ID: 33
+Precision: 0.2, Recall: 0.8214285714285714, F1: 0.3216783216783217
+
+34
+are social network site good societi 
+Rank 1: Document 6ea9a438-2019-04-18T15:38:58Z-00003-000, Similarity Score: 1.0000000000000002
+Document ID: 6ea9a438-2019-04-18T15:38:58Z-00003-000
+Title: Social networking sites are good for our society!
+Text: Social networking sites are good for our society!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-networking-sites-are-good-for-our-society/1/'}
+
+Rank 2: Document 6ea9a438-2019-04-18T15:38:58Z-00003-000, Similarity Score: 1.0000000000000002
+Document ID: 6ea9a438-2019-04-18T15:38:58Z-00003-000
+Title: Social networking sites are good for our society!
+Text: Social networking sites are good for our society!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-networking-sites-are-good-for-our-society/1/'}
+
+Rank 3: Document 6ea9a438-2019-04-18T15:38:58Z-00000-000, Similarity Score: 0.9861505204150518
+Document ID: 6ea9a438-2019-04-18T15:38:58Z-00000-000
+Title: Social networking sites are good for our society!
+Text: yeah vote me...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-networking-sites-are-good-for-our-society/1/'}
+
+Rank 4: Document 629412b6-2019-04-18T18:09:34Z-00003-000, Similarity Score: 0.8182507708354843
+Document ID: 629412b6-2019-04-18T18:09:34Z-00003-000
+Title: social networking sites should be banned..!!!
+Text: Social networking sites bring privacy into the public doman....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/social-networking-sites-should-be-banned../1/'}
+
+Rank 5: Document cc128cdd-2019-04-18T15:58:37Z-00004-000, Similarity Score: 0.809755733467872
+Document ID: cc128cdd-2019-04-18T15:58:37Z-00004-000
+Title: Social networking sites are beneficial
+Text: First of all, social networking sites can help you gain confidence. Social Networking sites such as ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-networking-sites-are-beneficial/1/'}
+
+Rank 6: Document 562197e9-2019-04-18T16:01:31Z-00005-000, Similarity Score: 0.7993139312882197
+Document ID: 562197e9-2019-04-18T16:01:31Z-00005-000
+Title: Social networks are beneficial to our society!
+Text: I am for social networking sites and I think that they are good for our society. Con must argue agai...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-networks-are-beneficial-to-our-society/1/'}
+
+Rank 7: Document 562197e9-2019-04-18T16:01:31Z-00005-000, Similarity Score: 0.7993139312882197
+Document ID: 562197e9-2019-04-18T16:01:31Z-00005-000
+Title: Social networks are beneficial to our society!
+Text: I am for social networking sites and I think that they are good for our society. Con must argue agai...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Social-networks-are-beneficial-to-our-society/1/'}
+
+Rank 8: Document 629412b6-2019-04-18T18:09:34Z-00001-000, Similarity Score: 0.7956827987253521
+Document ID: 629412b6-2019-04-18T18:09:34Z-00001-000
+Title: social networking sites should be banned..!!!
+Text: Extend my arguments....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/social-networking-sites-should-be-banned../1/'}
+
+Rank 9: Document 5c1e1da6-2019-04-18T18:36:14Z-00000-000, Similarity Score: 0.79158909337653
+Document ID: 5c1e1da6-2019-04-18T18:36:14Z-00000-000
+Title: Social Networking Sites are Harmful
+Text: Well, Arguments extended. .. I thank PRO for this debate. .. very interesting for the time that it l...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-Networking-Sites-are-Harmful/1/'}
+
+Rank 10: Document 5d621fc6-2019-04-18T18:36:07Z-00005-000, Similarity Score: 0.7864009754993929
+Document ID: 5d621fc6-2019-04-18T18:36:07Z-00005-000
+Title: Social networking sites are harmful.
+Text: Social networking sites are claimed as harmful to people but then why do they still use them. My rea...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Social-networking-sites-are-harmful./1/'}
+
+Query ID: 34
+Precision: 0.1, Recall: 0.9130434782608695, F1: 0.18025751072961374
+
+35
+do violent video game contribut youth violenc 
+Rank 1: Document 50c55103-2019-04-18T16:52:42Z-00003-000, Similarity Score: 0.5757882430420164
+Document ID: 50c55103-2019-04-18T16:52:42Z-00003-000
+Title: Do games teach kids violence.
+Text: Violent juvenile crime in the United States has been declining as violent video game popularity has ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Do-games-teach-kids-violence./1/'}
+
+Rank 2: Document b1a6f17a-2019-04-18T15:54:21Z-00005-000, Similarity Score: 0.5741358173568696
+Document ID: b1a6f17a-2019-04-18T15:54:21Z-00005-000
+Title: Violence in video games does not significantly contribute to real world violence.
+Text: What began the controversy:It is obvious that violence has been a major issue in society today. Even...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Violence-in-video-games-does-not-significantly-contribute-to-real-world-violence./1/'}
+
+Rank 3: Document 5b6b25e-2019-04-18T18:46:35Z-00002-000, Similarity Score: 0.5650988363845637
+Document ID: 5b6b25e-2019-04-18T18:46:35Z-00002-000
+Title: Violent Video Games
+Text: Society should restrict the sale and play of violent video games because children become desensitize...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Violent-Video-Games/2/'}
+
+Rank 4: Document 758ea5f9-2019-04-18T16:05:18Z-00004-000, Similarity Score: 0.5603359731528321
+Document ID: 758ea5f9-2019-04-18T16:05:18Z-00004-000
+Title: Are Video Games the main cause for Violent Juvenile Crimes
+Text: Increasing reports of bullying can be partially attributed to the popularity of violent video games....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Are-Video-Games-the-main-cause-for-Violent-Juvenile-Crimes/1/'}
+
+Rank 5: Document 758ea5f9-2019-04-18T16:05:18Z-00004-000, Similarity Score: 0.5603359731528321
+Document ID: 758ea5f9-2019-04-18T16:05:18Z-00004-000
+Title: Are Video Games the main cause for Violent Juvenile Crimes
+Text: Increasing reports of bullying can be partially attributed to the popularity of violent video games....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Are-Video-Games-the-main-cause-for-Violent-Juvenile-Crimes/1/'}
+
+Rank 6: Document 7f95546c-2019-04-18T14:36:44Z-00002-000, Similarity Score: 0.5552244025884127
+Document ID: 7f95546c-2019-04-18T14:36:44Z-00002-000
+Title: Video games are not a significant cause of violence in children
+Text: I first have to state that I will probably bee counted off for the copy and paste thing. If you feel...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Video-games-are-not-a-significant-cause-of-violence-in-children/1/'}
+
+Rank 7: Document 3466ccde-2019-04-18T15:56:31Z-00006-000, Similarity Score: 0.5449900084917108
+Document ID: 3466ccde-2019-04-18T15:56:31Z-00006-000
+Title: Video Games cause violence
+Text: The resolution: "Video games do not cause violence to a scale which is large enough to be worried ab...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Video-Games-cause-violence/4/'}
+
+Rank 8: Document d5c9fd7c-2019-04-18T13:00:26Z-00002-000, Similarity Score: 0.5406065871010488
+Document ID: d5c9fd7c-2019-04-18T13:00:26Z-00002-000
+Title: Video games do not cause violence`
+Text: Hello once more, Before getting on to rebutting the points stated previously, I would like to add my...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Video-games-do-not-cause-violence/4/'}
+
+Rank 9: Document a5ca39dc-2019-04-18T11:43:36Z-00005-000, Similarity Score: 0.5352578283391745
+Document ID: a5ca39dc-2019-04-18T11:43:36Z-00005-000
+Title: violent video games do NOT breed violence
+Text: I have researched this topic thoroughly and I wish to definitively state that violent video games do...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/violent-video-games-do-NOT-breed-violence/1/'}
+
+Rank 10: Document a5ca39dc-2019-04-18T11:43:36Z-00005-000, Similarity Score: 0.5352578283391745
+Document ID: a5ca39dc-2019-04-18T11:43:36Z-00005-000
+Title: violent video games do NOT breed violence
+Text: I have researched this topic thoroughly and I wish to definitively state that violent video games do...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/violent-video-games-do-NOT-breed-violence/1/'}
+
+Query ID: 35
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+36
+is golf sport 
+Rank 1: Document edab086a-2019-04-18T17:21:18Z-00004-000, Similarity Score: 0.9960381937737142
+Document ID: edab086a-2019-04-18T17:21:18Z-00004-000
+Title: Golf is a sport
+Text: I accept your argument. I say golf is not a sport....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Golf-is-a-sport/3/'}
+
+Rank 2: Document edab08a8-2019-04-18T16:34:53Z-00003-000, Similarity Score: 0.964857192261882
+Document ID: edab08a8-2019-04-18T16:34:53Z-00003-000
+Title: Golf is a sport
+Text: golf is a sport no doubt. it takes pure skill to be able to play the sport and if you can go pro in ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Golf-is-a-sport/5/'}
+
+Rank 3: Document edab08a8-2019-04-18T16:34:53Z-00003-000, Similarity Score: 0.964857192261882
+Document ID: edab08a8-2019-04-18T16:34:53Z-00003-000
+Title: Golf is a sport
+Text: golf is a sport no doubt. it takes pure skill to be able to play the sport and if you can go pro in ...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Golf-is-a-sport/5/'}
+
+Rank 4: Document f6c3ab3f-2019-04-18T16:53:00Z-00003-000, Similarity Score: 0.941119961134959
+Document ID: f6c3ab3f-2019-04-18T16:53:00Z-00003-000
+Title: does golf is a real sport
+Text: Golf is already officially categorized as a sport!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/does-golf-is-a-real-sport/1/'}
+
+Rank 5: Document f6c3ab3f-2019-04-18T16:53:00Z-00003-000, Similarity Score: 0.941119961134959
+Document ID: f6c3ab3f-2019-04-18T16:53:00Z-00003-000
+Title: does golf is a real sport
+Text: Golf is already officially categorized as a sport!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/does-golf-is-a-real-sport/1/'}
+
+Rank 6: Document edab086a-2019-04-18T17:21:18Z-00001-000, Similarity Score: 0.9385087025384404
+Document ID: edab086a-2019-04-18T17:21:18Z-00001-000
+Title: Golf is a sport
+Text: Once again, thank you for taking the time to make this debate happen. I would like to start off by a...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Golf-is-a-sport/3/'}
+
+Rank 7: Document f6c3ab3f-2019-04-18T16:53:00Z-00001-000, Similarity Score: 0.9347569596566832
+Document ID: f6c3ab3f-2019-04-18T16:53:00Z-00001-000
+Title: does golf is a real sport
+Text: hahaha okok So here is my point Obviously a sport... I believe that golf is a sport. But we can't sa...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/does-golf-is-a-real-sport/1/'}
+
+Rank 8: Document edab08a8-2019-04-18T16:34:53Z-00001-000, Similarity Score: 0.925349794162245
+Document ID: edab08a8-2019-04-18T16:34:53Z-00001-000
+Title: Golf is a sport
+Text: ok golf is a sport.. just like anyother sport you're in the sun so no argument there! and people can...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Golf-is-a-sport/5/'}
+
+Rank 9: Document f6c3ab3f-2019-04-18T16:53:00Z-00004-000, Similarity Score: 0.91943856456587
+Document ID: f6c3ab3f-2019-04-18T16:53:00Z-00004-000
+Title: does golf is a real sport
+Text: i think golf is not a real sport, because you dont make a physical exercise....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/does-golf-is-a-real-sport/1/'}
+
+Rank 10: Document f6c3ab3f-2019-04-18T16:53:00Z-00004-000, Similarity Score: 0.91943856456587
+Document ID: f6c3ab3f-2019-04-18T16:53:00Z-00004-000
+Title: does golf is a real sport
+Text: i think golf is not a real sport, because you dont make a physical exercise....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/does-golf-is-a-real-sport/1/'}
+
+Query ID: 36
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+37
+is cell phone radiat safe 
+Rank 1: Document b2b3385f-2019-04-18T11:40:05Z-00005-000, Similarity Score: 0.9372197137893963
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00005-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Obviously it's not healthy, but the amount of radiation is so low, there really wont be any side eff...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 2: Document b2b3385f-2019-04-18T11:40:05Z-00004-000, Similarity Score: 0.8948157626337341
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00004-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Well actually cell phone and other mobile devices emit radiofrequency energy which is a type of elec...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 3: Document b2b3385f-2019-04-18T11:40:05Z-00004-000, Similarity Score: 0.8948157626337341
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00004-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Well actually cell phone and other mobile devices emit radiofrequency energy which is a type of elec...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 4: Document b2b3385f-2019-04-18T11:40:05Z-00006-000, Similarity Score: 0.8926497373195168
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00006-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Hello, I hope you have fun debating this topic with me!This first round is just about putting your i...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 5: Document b2b3385f-2019-04-18T11:40:05Z-00006-000, Similarity Score: 0.8926497373195168
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00006-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Hello, I hope you have fun debating this topic with me!This first round is just about putting your i...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 6: Document b2b3385f-2019-04-18T11:40:05Z-00000-000, Similarity Score: 0.7843026703346506
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00000-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: (OK so now this is the fourth and final debating round, first of all good luck to my opponent, you h...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 7: Document b2b3385f-2019-04-18T11:40:05Z-00000-000, Similarity Score: 0.7843026703346506
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00000-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: (OK so now this is the fourth and final debating round, first of all good luck to my opponent, you h...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 8: Document b2b3385f-2019-04-18T11:40:05Z-00002-000, Similarity Score: 0.7351390964357806
+Document ID: b2b3385f-2019-04-18T11:40:05Z-00002-000
+Title: Cell Phone Radiation is Safe for Humans
+Text: Yes, scientists might say that the radio frequency the user receives is not enough to cause any harm...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phone-Radiation-is-Safe-for-Humans/1/'}
+
+Rank 9: Document b1f4c28-2019-04-18T17:48:48Z-00004-000, Similarity Score: 0.683021736105511
+Document ID: b1f4c28-2019-04-18T17:48:48Z-00004-000
+Title: Cell Phones
+Text: there bad...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Cell-Phones/5/'}
+
+Rank 10: Document b1f4c28-2019-04-18T17:48:48Z-00005-000, Similarity Score: 0.682007545258679
+Document ID: b1f4c28-2019-04-18T17:48:48Z-00005-000
+Title: Cell Phones
+Text: Should Cell phones be allowed in schools...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Cell-Phones/5/'}
+
+Query ID: 37
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+38
+should marijuana medic option 
+Rank 1: Document 174dab53-2019-04-18T18:33:55Z-00006-000, Similarity Score: 0.8487494256250052
+Document ID: 174dab53-2019-04-18T18:33:55Z-00006-000
+Title: Medical Marijuana
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/8/'}
+
+Rank 2: Document d267ad12-2019-04-18T11:40:03Z-00001-000, Similarity Score: 0.8486614346018875
+Document ID: d267ad12-2019-04-18T11:40:03Z-00001-000
+Title: Medical Marijuana
+Text: Should medical marijuana be legal or no?...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/34/'}
+
+Rank 3: Document 82c12bae-2019-04-18T18:49:36Z-00004-000, Similarity Score: 0.8375249918071322
+Document ID: 82c12bae-2019-04-18T18:49:36Z-00004-000
+Title: Medical Marijuana should be a legal option
+Text: I challenge my opponent to debate the merits or lack thereof of medical marijuana. I believe that Me...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Medical-Marijuana-should-be-a-legal-option/1/'}
+
+Rank 4: Document d267acf3-2019-04-18T11:47:51Z-00000-000, Similarity Score: 0.8370150397696241
+Document ID: d267acf3-2019-04-18T11:47:51Z-00000-000
+Title: Medical Marijuana
+Text: If it isn't bad then why is it illegal? It's just Syence T-Dog out...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/33/'}
+
+Rank 5: Document d267a533-2019-04-18T18:20:55Z-00006-000, Similarity Score: 0.8361452839608307
+Document ID: d267a533-2019-04-18T18:20:55Z-00006-000
+Title: Medical Marijuana
+Text: I accept. Good Luck....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/11/'}
+
+Rank 6: Document 174dab34-2019-04-18T18:36:44Z-00003-000, Similarity Score: 0.8268643477863877
+Document ID: 174dab34-2019-04-18T18:36:44Z-00003-000
+Title: Medical Marijuana
+Text: In the next round please define Medical Marijuana. Checking if you thing the same definition as I do...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Medical-Marijuana/7/'}
+
+Rank 7: Document 82c12bae-2019-04-18T18:49:36Z-00003-000, Similarity Score: 0.7809718028876569
+Document ID: 82c12bae-2019-04-18T18:49:36Z-00003-000
+Title: Medical Marijuana should be a legal option
+Text: 1. Proven Medical Benefits There are many who say that there are many proven medical benefits to smo...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana-should-be-a-legal-option/1/'}
+
+Rank 8: Document 174daad7-2019-04-18T18:53:23Z-00005-000, Similarity Score: 0.7788472256005226
+Document ID: 174daad7-2019-04-18T18:53:23Z-00005-000
+Title: Medical Marijuana
+Text: I would ask to change thie debate to is marijuana healthy? I ask you to tweak the topic slightly bec...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/4/'}
+
+Rank 9: Document 174daad7-2019-04-18T18:53:23Z-00005-000, Similarity Score: 0.7788472256005226
+Document ID: 174daad7-2019-04-18T18:53:23Z-00005-000
+Title: Medical Marijuana
+Text: I would ask to change thie debate to is marijuana healthy? I ask you to tweak the topic slightly bec...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Medical-Marijuana/4/'}
+
+Rank 10: Document 174daad7-2019-04-18T18:53:23Z-00006-000, Similarity Score: 0.7768684032925618
+Document ID: 174daad7-2019-04-18T18:53:23Z-00006-000
+Title: Medical Marijuana
+Text: Pro will argue that Marijuana has several useful medical purposes for treating diseases such as Glau...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Medical-Marijuana/4/'}
+
+Query ID: 38
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+39
+should feder minimum wage increas 
+Rank 1: Document 342cf7b6-2019-04-18T16:32:02Z-00007-000, Similarity Score: 0.8692772537452678
+Document ID: 342cf7b6-2019-04-18T16:32:02Z-00007-000
+Title: The Minimum Wage should be increased.
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Minimum-Wage-should-be-increased./1/'}
+
+Rank 2: Document d55c8fd6-2019-04-18T16:31:33Z-00001-000, Similarity Score: 0.8657966445771149
+Document ID: d55c8fd6-2019-04-18T16:31:33Z-00001-000
+Title: The minimum wage should be increased
+Text: Forward, again....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-minimum-wage-should-be-increased/1/'}
+
+Rank 3: Document 342cf7b6-2019-04-18T16:32:02Z-00000-000, Similarity Score: 0.8583343861643503
+Document ID: 342cf7b6-2019-04-18T16:32:02Z-00000-000
+Title: The Minimum Wage should be increased.
+Text: I still maintain that it should not be increased...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Minimum-Wage-should-be-increased./1/'}
+
+Rank 4: Document 342cf7b6-2019-04-18T16:32:02Z-00003-000, Similarity Score: 0.8544493440662942
+Document ID: 342cf7b6-2019-04-18T16:32:02Z-00003-000
+Title: The Minimum Wage should be increased.
+Text: Unfortunately,My opponent gave up....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Minimum-Wage-should-be-increased./1/'}
+
+Rank 5: Document d55c8fd6-2019-04-18T16:31:33Z-00002-000, Similarity Score: 0.847207187907796
+Document ID: d55c8fd6-2019-04-18T16:31:33Z-00002-000
+Title: The minimum wage should be increased
+Text: Con has dropped all of my arguments. Extending forward....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-minimum-wage-should-be-increased/1/'}
+
+Rank 6: Document 5194bbe-2019-04-18T17:30:08Z-00005-000, Similarity Score: 0.8413345772651419
+Document ID: 5194bbe-2019-04-18T17:30:08Z-00005-000
+Title: Resolved: The US Federal Government should raise the federal minimum wage to $15 an hour
+Text: Myth: Raising the minimum wage will only benefit teens. Not true: The typical minimum wage worker is...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-The-US-Federal-Government-should-raise-the-federal-minimum-wage-to-15-an-hour/1/'}
+
+Rank 7: Document 5194bbe-2019-04-18T17:30:08Z-00005-000, Similarity Score: 0.8413345772651419
+Document ID: 5194bbe-2019-04-18T17:30:08Z-00005-000
+Title: Resolved: The US Federal Government should raise the federal minimum wage to $15 an hour
+Text: Myth: Raising the minimum wage will only benefit teens. Not true: The typical minimum wage worker is...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-The-US-Federal-Government-should-raise-the-federal-minimum-wage-to-15-an-hour/1/'}
+
+Rank 8: Document 4d04459a-2019-04-18T14:01:20Z-00002-000, Similarity Score: 0.840692449085121
+Document ID: 4d04459a-2019-04-18T14:01:20Z-00002-000
+Title: The federal minimum wage should be raised to $15 an hour
+Text: Summary from Round 2Pro - 1. Economists are not agreed on the of the effects of a minimum wage.2. Th...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-federal-minimum-wage-should-be-raised-to-15-an-hour/1/'}
+
+Rank 9: Document 4d04459a-2019-04-18T14:01:20Z-00002-000, Similarity Score: 0.840692449085121
+Document ID: 4d04459a-2019-04-18T14:01:20Z-00002-000
+Title: The federal minimum wage should be raised to $15 an hour
+Text: Summary from Round 2Pro - 1. Economists are not agreed on the of the effects of a minimum wage.2. Th...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-federal-minimum-wage-should-be-raised-to-15-an-hour/1/'}
+
+Rank 10: Document b6f6e654-2019-04-18T17:09:58Z-00002-000, Similarity Score: 0.8396971322812721
+Document ID: b6f6e654-2019-04-18T17:09:58Z-00002-000
+Title: The Federal Minimum wage should NOT be raised
+Text: The argument that raising the federal minimum wage would cost business owners more money, and thus f...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-Federal-Minimum-wage-should-NOT-be-raised/1/'}
+
+Query ID: 39
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+40
+should death penalti allow 
+Rank 1: Document edfd66cb-2019-04-18T11:26:43Z-00000-000, Similarity Score: 0.9945557577975503
+Document ID: edfd66cb-2019-04-18T11:26:43Z-00000-000
+Title: Death penalty should be allowed.
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Death-penalty-should-be-allowed./1/'}
+
+Rank 2: Document edfd66cb-2019-04-18T11:26:43Z-00000-000, Similarity Score: 0.9945557577975503
+Document ID: edfd66cb-2019-04-18T11:26:43Z-00000-000
+Title: Death penalty should be allowed.
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Death-penalty-should-be-allowed./1/'}
+
+Rank 3: Document c0a5f15c-2019-04-18T13:45:23Z-00004-000, Similarity Score: 0.9919805716941422
+Document ID: c0a5f15c-2019-04-18T13:45:23Z-00004-000
+Title: The death penalty should be allowed
+Text: The death penalty is not "wrong". It is just....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-death-penalty-should-be-allowed/2/'}
+
+Rank 4: Document eaf9851d-2019-04-18T15:40:44Z-00001-000, Similarity Score: 0.9856682170434355
+Document ID: eaf9851d-2019-04-18T15:40:44Z-00001-000
+Title: the death penalty should be allowed
+Text: Extend arguments....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/the-death-penalty-should-be-allowed/1/'}
+
+Rank 5: Document ed8c6e01-2019-04-18T18:08:43Z-00004-000, Similarity Score: 0.9782035557201533
+Document ID: ed8c6e01-2019-04-18T18:08:43Z-00004-000
+Title: Death Penalty should be allowed
+Text: I am going to argue for this topic. I believe that death penalty should be allowed in many countries...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Death-Penalty-should-be-allowed/1/'}
+
+Rank 6: Document ed8c6e01-2019-04-18T18:08:43Z-00004-000, Similarity Score: 0.9782035557201533
+Document ID: ed8c6e01-2019-04-18T18:08:43Z-00004-000
+Title: Death Penalty should be allowed
+Text: I am going to argue for this topic. I believe that death penalty should be allowed in many countries...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Death-Penalty-should-be-allowed/1/'}
+
+Rank 7: Document 6604e4a3-2019-04-18T14:33:25Z-00004-000, Similarity Score: 0.9654572222593356
+Document ID: 6604e4a3-2019-04-18T14:33:25Z-00004-000
+Title: The death penalty should NOT be allowed
+Text: I accept the challenge for the debate. Good luck!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-death-penalty-should-NOT-be-allowed/1/'}
+
+Rank 8: Document c0a5f15c-2019-04-18T13:45:23Z-00005-000, Similarity Score: 0.9571622426707445
+Document ID: c0a5f15c-2019-04-18T13:45:23Z-00005-000
+Title: The death penalty should be allowed
+Text: The death penalty should not be allowed as you know the old saying, two wrongs don't make a right. T...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-death-penalty-should-be-allowed/2/'}
+
+Rank 9: Document 6604e4a3-2019-04-18T14:33:25Z-00005-000, Similarity Score: 0.9524613943284332
+Document ID: 6604e4a3-2019-04-18T14:33:25Z-00005-000
+Title: The death penalty should NOT be allowed
+Text: Hello and thank you for joining my debate I will be arguing in favor of not allowing the death penal...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-death-penalty-should-NOT-be-allowed/1/'}
+
+Rank 10: Document 6604e4c2-2019-04-18T14:32:22Z-00007-000, Similarity Score: 0.9524613943284332
+Document ID: 6604e4c2-2019-04-18T14:32:22Z-00007-000
+Title: The death penalty should NOT be allowed
+Text: Hello and thank you for joining my debate I will be arguing in favor of not allowing the death penal...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-death-penalty-should-NOT-be-allowed/2/'}
+
+Query ID: 40
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+41
+should student loan debt easier discharg bankruptci 
+Rank 1: Document a2310a08-2019-04-18T15:11:53Z-00005-000, Similarity Score: 0.654330609991624
+Document ID: a2310a08-2019-04-18T15:11:53Z-00005-000
+Title: Personal Bankruptcy is Anti-Libertarian
+Text: To clarify, I will be arguing that the government's "forgiveness" of consumer debt through bankruptc...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Personal-Bankruptcy-is-Anti-Libertarian/1/'}
+
+Rank 2: Document a2310a08-2019-04-18T15:11:53Z-00005-000, Similarity Score: 0.654330609991624
+Document ID: a2310a08-2019-04-18T15:11:53Z-00005-000
+Title: Personal Bankruptcy is Anti-Libertarian
+Text: To clarify, I will be arguing that the government's "forgiveness" of consumer debt through bankruptc...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Personal-Bankruptcy-is-Anti-Libertarian/1/'}
+
+Rank 3: Document 5d69331e-2019-04-18T19:00:35Z-00000-000, Similarity Score: 0.603440387285949
+Document ID: 5d69331e-2019-04-18T19:00:35Z-00000-000
+Title: Student Loan Debt
+Text: Too bad, I was looking forward to this debate. My opponent concedes that in spite of all his argumen...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Student-Loan-Debt/1/'}
+
+Rank 4: Document 5279eb1d-2019-04-18T17:25:55Z-00001-000, Similarity Score: 0.5567320418403887
+Document ID: 5279eb1d-2019-04-18T17:25:55Z-00001-000
+Title: You should be allowed to declare bankruptcy on college loans
+Text: I will allow my opponent to start first, and I will let them know that I will focus my arguments on ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/You-should-be-allowed-to-declare-bankruptcy-on-college-loans/1/'}
+
+Rank 5: Document 574204c1-2019-04-18T16:10:11Z-00002-000, Similarity Score: 0.5400118654150912
+Document ID: 574204c1-2019-04-18T16:10:11Z-00002-000
+Title: Personal Bankruptcy is worth doing
+Text: Personal Bankruptcy is one of the worst choices a person can make. To be fair and honest, I"ll say t...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Personal-Bankruptcy-is-worth-doing/2/'}
+
+Rank 6: Document 5279eb1d-2019-04-18T17:25:55Z-00002-000, Similarity Score: 0.5294837697935098
+Document ID: 5279eb1d-2019-04-18T17:25:55Z-00002-000
+Title: You should be allowed to declare bankruptcy on college loans
+Text: I think bankruptcy should include college loans. College loans are so hard to finance because compan...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/You-should-be-allowed-to-declare-bankruptcy-on-college-loans/1/'}
+
+Rank 7: Document 5279eb1d-2019-04-18T17:25:55Z-00002-000, Similarity Score: 0.5294837697935098
+Document ID: 5279eb1d-2019-04-18T17:25:55Z-00002-000
+Title: You should be allowed to declare bankruptcy on college loans
+Text: I think bankruptcy should include college loans. College loans are so hard to finance because compan...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/You-should-be-allowed-to-declare-bankruptcy-on-college-loans/1/'}
+
+Rank 8: Document a2310a08-2019-04-18T15:11:53Z-00001-000, Similarity Score: 0.4725458278525423
+Document ID: a2310a08-2019-04-18T15:11:53Z-00001-000
+Title: Personal Bankruptcy is Anti-Libertarian
+Text: As above.......
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Personal-Bankruptcy-is-Anti-Libertarian/1/'}
+
+Rank 9: Document a2310a08-2019-04-18T15:11:53Z-00004-000, Similarity Score: 0.47075453129231526
+Document ID: a2310a08-2019-04-18T15:11:53Z-00004-000
+Title: Personal Bankruptcy is Anti-Libertarian
+Text: I accept........
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Personal-Bankruptcy-is-Anti-Libertarian/1/'}
+
+Rank 10: Document d8daa153-2019-04-18T15:42:57Z-00001-000, Similarity Score: 0.45553116537577915
+Document ID: d8daa153-2019-04-18T15:42:57Z-00001-000
+Title: studying is not the only way to get rich
+Text: Hi back, before I move on to dismantle your uncited mostly assumption based arguments, I noticed you...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/studying-is-not-the-only-way-to-get-rich/1/'}
+
+Query ID: 41
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+42
+should fight allow hockey 
+Rank 1: Document d4da401a-2019-04-18T16:24:29Z-00006-000, Similarity Score: 0.7945790912939978
+Document ID: d4da401a-2019-04-18T16:24:29Z-00006-000
+Title: Soccer is a better sport than Hockey
+Text: I will save my rebuttals for the last round Argument #1: Many forms of Hockey Hockey is a family of ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Soccer-is-a-better-sport-than-Hockey/1/'}
+
+Rank 2: Document 27512099-2019-04-18T18:41:40Z-00000-000, Similarity Score: 0.7941866537656227
+Document ID: 27512099-2019-04-18T18:41:40Z-00000-000
+Title: Fighting in Hockey Needs to Be Banned
+Text: My opponent has forfeited. I win by default....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Fighting-in-Hockey-Needs-to-Be-Banned/1/'}
+
+Rank 3: Document 7282d1c1-2019-04-18T11:33:12Z-00001-000, Similarity Score: 0.7890791048244011
+Document ID: 7282d1c1-2019-04-18T11:33:12Z-00001-000
+Title: Should Fighting be Allowed in Hockey
+Text: While the evidence concerning head trauma is troubling, it exists within the context of an already v...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-Fighting-be-Allowed-in-Hockey/1/'}
+
+Rank 4: Document 27512099-2019-04-18T18:41:40Z-00003-000, Similarity Score: 0.7684716263405608
+Document ID: 27512099-2019-04-18T18:41:40Z-00003-000
+Title: Fighting in Hockey Needs to Be Banned
+Text: Fighting in Ice Hockey is very common, but there have been some people who wanted it to stop. Why? B...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Fighting-in-Hockey-Needs-to-Be-Banned/1/'}
+
+Rank 5: Document 27512099-2019-04-18T18:41:40Z-00003-000, Similarity Score: 0.7684716263405608
+Document ID: 27512099-2019-04-18T18:41:40Z-00003-000
+Title: Fighting in Hockey Needs to Be Banned
+Text: Fighting in Ice Hockey is very common, but there have been some people who wanted it to stop. Why? B...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Fighting-in-Hockey-Needs-to-Be-Banned/1/'}
+
+Rank 6: Document 1568e11-2019-04-18T18:25:47Z-00000-000, Similarity Score: 0.7516946833108478
+Document ID: 1568e11-2019-04-18T18:25:47Z-00000-000
+Title: Ice hockey is better than Hockey
+Text: Extend my arguments FOREVER...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Ice-hockey-is-better-than-Hockey/1/'}
+
+Rank 7: Document 7282d1c1-2019-04-18T11:33:12Z-00000-000, Similarity Score: 0.7501435855074322
+Document ID: 7282d1c1-2019-04-18T11:33:12Z-00000-000
+Title: Should Fighting be Allowed in Hockey
+Text: While fighting might not be too different from the natural physicality of hockey, the way it is pres...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-Fighting-be-Allowed-in-Hockey/1/'}
+
+Rank 8: Document 7282d1c1-2019-04-18T11:33:12Z-00000-000, Similarity Score: 0.7501435855074322
+Document ID: 7282d1c1-2019-04-18T11:33:12Z-00000-000
+Title: Should Fighting be Allowed in Hockey
+Text: While fighting might not be too different from the natural physicality of hockey, the way it is pres...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-Fighting-be-Allowed-in-Hockey/1/'}
+
+Rank 9: Document 1568e11-2019-04-18T18:25:47Z-00005-000, Similarity Score: 0.7430488481582984
+Document ID: 1568e11-2019-04-18T18:25:47Z-00005-000
+Title: Ice hockey is better than Hockey
+Text: I would first like to straight that my argument is specifically pointed towards that hockey is bette...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Ice-hockey-is-better-than-Hockey/1/'}
+
+Rank 10: Document 1568e11-2019-04-18T18:25:47Z-00001-000, Similarity Score: 0.7407891304373557
+Document ID: 1568e11-2019-04-18T18:25:47Z-00001-000
+Title: Ice hockey is better than Hockey
+Text: Extend my arguments ad infinitum! http://www.youtube.com...http://en.wikipedia.org...;...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Ice-hockey-is-better-than-Hockey/1/'}
+
+Query ID: 42
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+43
+should bottl water ban 
+Rank 1: Document 824ed8eb-2019-04-18T18:32:31Z-00009-000, Similarity Score: 1.0
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00009-000
+Title: Bottled water should be banned
+Text: Bottled water should be banned!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 2: Document 824ed8eb-2019-04-18T18:32:31Z-00009-000, Similarity Score: 1.0
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00009-000
+Title: Bottled water should be banned
+Text: Bottled water should be banned!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 3: Document 824ed8eb-2019-04-18T18:32:31Z-00008-000, Similarity Score: 0.9961802746646535
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00008-000
+Title: Bottled water should be banned
+Text: I accept and will be arguing that bottled water should not be banned...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 4: Document 824ed8eb-2019-04-18T18:32:31Z-00008-000, Similarity Score: 0.9961802746646535
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00008-000
+Title: Bottled water should be banned
+Text: I accept and will be arguing that bottled water should not be banned...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 5: Document 824ed8eb-2019-04-18T18:32:31Z-00001-000, Similarity Score: 0.9772694036467044
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00001-000
+Title: Bottled water should be banned
+Text: i meant bottled water is a scam...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 6: Document 824ed986-2019-04-18T11:15:23Z-00000-000, Similarity Score: 0.9613856158224967
+Document ID: 824ed986-2019-04-18T11:15:23Z-00000-000
+Title: Bottled water should be banned
+Text: Extend arguments. (I really don't know what else to add without repeating the same thing over and ov...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/6/'}
+
+Rank 7: Document 824ed986-2019-04-18T11:15:23Z-00001-000, Similarity Score: 0.8749817962101967
+Document ID: 824ed986-2019-04-18T11:15:23Z-00001-000
+Title: Bottled water should be banned
+Text: I hope we could see the others perspective without any troubles. No it shouldn't. That is too much g...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/6/'}
+
+Rank 8: Document 824ed8eb-2019-04-18T18:32:31Z-00005-000, Similarity Score: 0.8611054827747737
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00005-000
+Title: Bottled water should be banned
+Text: thank you for accepting,what i was saying i mean bottled water should be banned in supermarkets, dai...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 9: Document 824ed8eb-2019-04-18T18:32:31Z-00005-000, Similarity Score: 0.8611054827747737
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00005-000
+Title: Bottled water should be banned
+Text: thank you for accepting,what i was saying i mean bottled water should be banned in supermarkets, dai...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Rank 10: Document 824ed8eb-2019-04-18T18:32:31Z-00007-000, Similarity Score: 0.8360129249030368
+Document ID: 824ed8eb-2019-04-18T18:32:31Z-00007-000
+Title: Bottled water should be banned
+Text: it should be banned because oil is wasted making the plastic bottles and it is also very unhealthy f...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Bottled-water-should-be-banned/1/'}
+
+Query ID: 43
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+44
+should elect day nation holiday 
+Rank 1: Document d5df8523-2019-04-18T16:52:37Z-00004-000, Similarity Score: 0.6830405997978707
+Document ID: d5df8523-2019-04-18T16:52:37Z-00004-000
+Title: Holidays
+Text: I will argue that Christmas is a better holiday....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Holidays/1/'}
+
+Rank 2: Document d5df8523-2019-04-18T16:52:37Z-00000-000, Similarity Score: 0.6807329557552544
+Document ID: d5df8523-2019-04-18T16:52:37Z-00000-000
+Title: Holidays
+Text: My opponent has presented no arguments. I therefore win....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Holidays/1/'}
+
+Rank 3: Document 7c0b669f-2019-04-18T18:19:34Z-00000-000, Similarity Score: 0.6527965867234489
+Document ID: 7c0b669f-2019-04-18T18:19:34Z-00000-000
+Title: Star Wars Day should be a national holiday.
+Text: I disagree. May the Fourth should be an international holiday. Everyone should be able to celebrate ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Star-Wars-Day-should-be-a-national-holiday./1/'}
+
+Rank 4: Document d5df8523-2019-04-18T16:52:37Z-00005-000, Similarity Score: 0.651940172290216
+Document ID: d5df8523-2019-04-18T16:52:37Z-00005-000
+Title: Holidays
+Text: Which is better? Christmas or Easter?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Holidays/1/'}
+
+Rank 5: Document d5df8523-2019-04-18T16:52:37Z-00003-000, Similarity Score: 0.6065034187928497
+Document ID: d5df8523-2019-04-18T16:52:37Z-00003-000
+Title: Holidays
+Text: Now which would be best Christmas or your birthday? CHRISTMAS!!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Holidays/1/'}
+
+Rank 6: Document 5bffff46-2019-04-18T14:36:27Z-00003-000, Similarity Score: 0.5870997891390145
+Document ID: 5bffff46-2019-04-18T14:36:27Z-00003-000
+Title: School is better then holidays
+Text: School IS better then holidays. Holidays are boring, what can you do ? Parents have no time. Even if...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/School-is-better-then-holidays/1/'}
+
+Rank 7: Document 2d5917c9-2019-04-18T12:15:28Z-00001-000, Similarity Score: 0.5863125385830054
+Document ID: 2d5917c9-2019-04-18T12:15:28Z-00001-000
+Title: Abolish all holidays
+Text: Well for instance , as an example,I am not into holiday like I said it is like a broken record playi...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Abolish-all-holidays/2/'}
+
+Rank 8: Document d5df8523-2019-04-18T16:52:37Z-00001-000, Similarity Score: 0.5721257412545949
+Document ID: d5df8523-2019-04-18T16:52:37Z-00001-000
+Title: Holidays
+Text: Fine then... Halloween or Christmas? Halloween......
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Holidays/1/'}
+
+Rank 9: Document a9586a5-2019-04-18T15:18:07Z-00001-000, Similarity Score: 0.5705787767419043
+Document ID: a9586a5-2019-04-18T15:18:07Z-00001-000
+Title: Potato day should be a national holiday for all places
+Text: I love potatoes so potatoe day should be a national holiday if anyone disagrees give valid informati...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Potato-day-should-be-a-national-holiday-for-all-places/1/'}
+
+Rank 10: Document a9586a5-2019-04-18T15:18:07Z-00001-000, Similarity Score: 0.5705787767419043
+Document ID: a9586a5-2019-04-18T15:18:07Z-00001-000
+Title: Potato day should be a national holiday for all places
+Text: I love potatoes so potatoe day should be a national holiday if anyone disagrees give valid informati...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Potato-day-should-be-a-national-holiday-for-all-places/1/'}
+
+Query ID: 44
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+45
+should penni stay circul 
+Rank 1: Document 8ce6be05-2019-04-18T16:30:30Z-00001-000, Similarity Score: 0.8601334618856052
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00001-000
+Title: The penny should be stopped from circulation
+Text: I extend my arguments...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 2: Document 8ce6be05-2019-04-18T16:30:30Z-00003-000, Similarity Score: 0.8113798038666987
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00003-000
+Title: The penny should be stopped from circulation
+Text: You did not state why pennies should not be in circulation. Anyways, melting down pennies will cost ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 3: Document 8ce6be05-2019-04-18T16:30:30Z-00003-000, Similarity Score: 0.8113798038666987
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00003-000
+Title: The penny should be stopped from circulation
+Text: You did not state why pennies should not be in circulation. Anyways, melting down pennies will cost ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 4: Document 8ce6be05-2019-04-18T16:30:30Z-00004-000, Similarity Score: 0.7731144836870227
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00004-000
+Title: The penny should be stopped from circulation
+Text: I will be arguing in favor of the following plan: 1: All Pennies currently circulated as U. S Curren...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 5: Document 8ce6be05-2019-04-18T16:30:30Z-00000-000, Similarity Score: 0.7313148656818125
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00000-000
+Title: The penny should be stopped from circulation
+Text: !! !! Vote con! !! !! Vote con! !! !! Vote con! !! !! Vote con! !! !! Vote con! !! !! Vote con! !! !...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 6: Document 8ce6be05-2019-04-18T16:30:30Z-00002-000, Similarity Score: 0.7068842563401762
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00002-000
+Title: The penny should be stopped from circulation
+Text: Alright, I was planning on presenting my advantages and arguments in my second speech after presenti...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 7: Document 8ce6be05-2019-04-18T16:30:30Z-00002-000, Similarity Score: 0.7068842563401762
+Document ID: 8ce6be05-2019-04-18T16:30:30Z-00002-000
+Title: The penny should be stopped from circulation
+Text: Alright, I was planning on presenting my advantages and arguments in my second speech after presenti...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-penny-should-be-stopped-from-circulation/1/'}
+
+Rank 8: Document 35161051-2019-04-18T12:33:43Z-00005-000, Similarity Score: 0.6458920982341607
+Document ID: 35161051-2019-04-18T12:33:43Z-00005-000
+Title: The United States should cease production of the penny
+Text: I agree with ceasing production of the penny in the United States for the following reasons. 1:The p...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-United-States-should-cease-production-of-the-penny/1/'}
+
+Rank 9: Document 87bd157b-2019-04-18T13:37:52Z-00005-000, Similarity Score: 0.6360474931417857
+Document ID: 87bd157b-2019-04-18T13:37:52Z-00005-000
+Title: Should the U.S. keep the penny
+Text: This argument will be about whether or not we should take the penny out of circulation. I will be ar...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-the-U.S.-keep-the-penny/1/'}
+
+Rank 10: Document 87bd157b-2019-04-18T13:37:52Z-00005-000, Similarity Score: 0.6360474931417857
+Document ID: 87bd157b-2019-04-18T13:37:52Z-00005-000
+Title: Should the U.S. keep the penny
+Text: This argument will be about whether or not we should take the penny out of circulation. I will be ar...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Should-the-U.S.-keep-the-penny/1/'}
+
+Query ID: 45
+Precision: 0.3, Recall: 1.0, F1: 0.4615384615384615
+
+46
+should net neutral restor 
+Rank 1: Document 2b6ac2c3-2019-04-18T15:10:44Z-00009-000, Similarity Score: 0.7812827279765711
+Document ID: 2b6ac2c3-2019-04-18T15:10:44Z-00009-000
+Title: Net neutrality
+Text: should be a good debate....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-neutrality/5/'}
+
+Rank 2: Document 5b09f246-2019-04-18T16:17:57Z-00006-000, Similarity Score: 0.7776709578134435
+Document ID: 5b09f246-2019-04-18T16:17:57Z-00006-000
+Title: Net Neutrality
+Text: Let's begin....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Net-Neutrality/2/'}
+
+Rank 3: Document 5b09f246-2019-04-18T16:17:57Z-00001-000, Similarity Score: 0.7702473634037946
+Document ID: 5b09f246-2019-04-18T16:17:57Z-00001-000
+Title: Net Neutrality
+Text: I enjoyed it. I hope you did as well....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-Neutrality/2/'}
+
+Rank 4: Document 5b09f246-2019-04-18T16:17:57Z-00001-000, Similarity Score: 0.7702473634037946
+Document ID: 5b09f246-2019-04-18T16:17:57Z-00001-000
+Title: Net Neutrality
+Text: I enjoyed it. I hope you did as well....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-Neutrality/2/'}
+
+Rank 5: Document 41ed0b25-2019-04-18T11:53:25Z-00001-000, Similarity Score: 0.7697863467903499
+Document ID: 41ed0b25-2019-04-18T11:53:25Z-00001-000
+Title: Net neutrality.
+Text: No, you have shared your opinion. Net neutrality means a neutral internet....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-neutrality./1/'}
+
+Rank 6: Document 41ed0b25-2019-04-18T11:53:25Z-00009-000, Similarity Score: 0.766051340586755
+Document ID: 41ed0b25-2019-04-18T11:53:25Z-00009-000
+Title: Net neutrality.
+Text: Net neutrality is the concept that the internet should remain neutral and not be dictasted by conten...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-neutrality./1/'}
+
+Rank 7: Document 6345307-2019-04-18T11:53:59Z-00000-000, Similarity Score: 0.7570175594132145
+Document ID: 6345307-2019-04-18T11:53:59Z-00000-000
+Title: Net Neutrality
+Text: Enjoyed this quite a bit myself. Thanks for the challenge, bigwigaustin!...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-Neutrality/10/'}
+
+Rank 8: Document 41ed0b25-2019-04-18T11:53:25Z-00003-000, Similarity Score: 0.7565610253455822
+Document ID: 41ed0b25-2019-04-18T11:53:25Z-00003-000
+Title: Net neutrality.
+Text: Do you have any non partisan evidence contradicting net neutrality? Do you know what it even measns?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Net-neutrality./1/'}
+
+Rank 9: Document 40a68302-2019-04-18T14:17:57Z-00000-000, Similarity Score: 0.7554406513327181
+Document ID: 40a68302-2019-04-18T14:17:57Z-00000-000
+Title: net neutrality
+Text: Don't slow down my cat videos!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/net-neutrality/6/'}
+
+Rank 10: Document 5b09f31f-2019-04-18T11:54:28Z-00000-000, Similarity Score: 0.7328933959320165
+Document ID: 5b09f31f-2019-04-18T11:54:28Z-00000-000
+Title: Net Neutrality
+Text: Actually, you have changed my mind. Now I gotta figure out how to concede. Good job!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Net-Neutrality/9/'}
+
+Query ID: 46
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+47
+is homework benefici 
+Rank 1: Document bd7013ea-2019-04-18T14:03:21Z-00004-000, Similarity Score: 0.8126403249074696
+Document ID: bd7013ea-2019-04-18T14:03:21Z-00004-000
+Title: Homework is beneficial for school students
+Text: I accept....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Homework-is-beneficial-for-school-students/1/'}
+
+Rank 2: Document 68a4d00a-2019-04-18T16:43:31Z-00000-000, Similarity Score: 0.8122283900593669
+Document ID: 68a4d00a-2019-04-18T16:43:31Z-00000-000
+Title: Homework should be banned
+Text: If you truly feel that the homework you are being given is not beneficial to your education, then yo...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Homework-should-be-banned/8/'}
+
+Rank 3: Document 68a4d00a-2019-04-18T16:43:31Z-00000-000, Similarity Score: 0.8122283900593669
+Document ID: 68a4d00a-2019-04-18T16:43:31Z-00000-000
+Title: Homework should be banned
+Text: If you truly feel that the homework you are being given is not beneficial to your education, then yo...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Homework-should-be-banned/8/'}
+
+Rank 4: Document cf3337cd-2019-04-18T17:33:53Z-00003-000, Similarity Score: 0.7842548574572437
+Document ID: cf3337cd-2019-04-18T17:33:53Z-00003-000
+Title: Homework
+Text: I forefeit...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Homework/2/'}
+
+Rank 5: Document 6600bad8-2019-04-18T18:40:43Z-00001-000, Similarity Score: 0.7734201369449184
+Document ID: 6600bad8-2019-04-18T18:40:43Z-00001-000
+Title: That we should have more homework
+Text: Extend...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/That-we-should-have-more-homework/1/'}
+
+Rank 6: Document cf3337cd-2019-04-18T17:33:53Z-00002-000, Similarity Score: 0.7708796873059036
+Document ID: cf3337cd-2019-04-18T17:33:53Z-00002-000
+Title: Homework
+Text: Uhhh ok........
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Homework/2/'}
+
+Rank 7: Document 1733c67d-2019-04-18T11:47:10Z-00005-000, Similarity Score: 0.7706922967756896
+Document ID: 1733c67d-2019-04-18T11:47:10Z-00005-000
+Title: Homework
+Text: My Position: No homework; homework can cause negative effects....
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Homework/35/'}
+
+Rank 8: Document d686eda-2019-04-18T12:57:55Z-00001-000, Similarity Score: 0.7672961049047502
+Document ID: d686eda-2019-04-18T12:57:55Z-00001-000
+Title: homework
+Text: Does homework help the learning process?...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/homework/27/'}
+
+Rank 9: Document f514b262-2019-04-18T16:54:15Z-00001-000, Similarity Score: 0.7644219731377538
+Document ID: f514b262-2019-04-18T16:54:15Z-00001-000
+Title: We should have homework
+Text: Victory!!!...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/We-should-have-homework/1/'}
+
+Rank 10: Document d686eda-2019-04-18T12:57:55Z-00000-000, Similarity Score: 0.7633861583654142
+Document ID: d686eda-2019-04-18T12:57:55Z-00000-000
+Title: homework
+Text: I accept. Good luck :D...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/homework/27/'}
+
+Query ID: 47
+Precision: 0.0, Recall: 1.0, F1: 0.0
+
+48
+should vote age lower 
+Rank 1: Document 6d6965d5-2019-04-18T17:51:17Z-00006-000, Similarity Score: 0.875702233422434
+Document ID: 6d6965d5-2019-04-18T17:51:17Z-00006-000
+Title: That the voting age should be lowered to 15
+Text: I will just clarify the rules, but, as stated they seem to be correct. Pro has the BoP. Specifically...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/That-the-voting-age-should-be-lowered-to-15/1/'}
+
+Rank 2: Document d461a67d-2019-04-18T11:42:08Z-00007-000, Similarity Score: 0.8411360100246061
+Document ID: d461a67d-2019-04-18T11:42:08Z-00007-000
+Title: Lower the Voting Age
+Text: You may go first. I am FOR lowering the voting age, and for this argument we will talk about lowerin...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Lower-the-Voting-Age/1/'}
+
+Rank 3: Document dac67b43-2019-04-18T15:27:10Z-00004-000, Similarity Score: 0.8353956641055971
+Document ID: dac67b43-2019-04-18T15:27:10Z-00004-000
+Title: The lowering of the voting age>>>
+Text: I never stated that all Ivy-League college graduates know everything, but they certainly know enough...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-lowering-of-the-voting-age/1/'}
+
+Rank 4: Document dac67b43-2019-04-18T15:27:10Z-00007-000, Similarity Score: 0.8340017851843029
+Document ID: dac67b43-2019-04-18T15:27:10Z-00007-000
+Title: The lowering of the voting age>>>
+Text: Until the age twenty-five, the human brain is not at its full potential and the human being has not ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-lowering-of-the-voting-age/1/'}
+
+Rank 5: Document aeb43fe9-2019-04-18T11:40:53Z-00003-000, Similarity Score: 0.8175658537270785
+Document ID: aeb43fe9-2019-04-18T11:40:53Z-00003-000
+Title: Should the voting age be lowered
+Text: 1) I`m not saying we lower the age to 8, I`m saying we lower the age to like 16 or something, and th...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-the-voting-age-be-lowered/2/'}
+
+Rank 6: Document ca9d6789-2019-04-15T20:24:25Z-00004-000, Similarity Score: 0.7808047981462245
+Document ID: ca9d6789-2019-04-15T20:24:25Z-00004-000
+Title: lower the voting age to 16
+Text: Voting at 16 would help rebalance voting ages...
+Metadata: {'stance': 'PRO', 'url': 'https://idebate.org/debatabase/politics-voting/house-would-lower-voting-age-16'}
+
+Rank 7: Document aeb43fe9-2019-04-18T11:40:53Z-00005-000, Similarity Score: 0.7752973716426355
+Document ID: aeb43fe9-2019-04-18T11:40:53Z-00005-000
+Title: Should the voting age be lowered
+Text: The voting age should be lowered for many reasons: 1) People think that kids would make horrible cho...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Should-the-voting-age-be-lowered/2/'}
+
+Rank 8: Document 2045b810-2019-04-18T19:12:56Z-00000-000, Similarity Score: 0.7691217962831614
+Document ID: 2045b810-2019-04-18T19:12:56Z-00000-000
+Title: the voting age should be lowered to 16.
+Text: My opponent has not refuted any of my points and thus I have won this debate. They have no argument ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/the-voting-age-should-be-lowered-to-16./1/'}
+
+Rank 9: Document 2045b810-2019-04-18T19:12:56Z-00000-000, Similarity Score: 0.7691217962831614
+Document ID: 2045b810-2019-04-18T19:12:56Z-00000-000
+Title: the voting age should be lowered to 16.
+Text: My opponent has not refuted any of my points and thus I have won this debate. They have no argument ...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/the-voting-age-should-be-lowered-to-16./1/'}
+
+Rank 10: Document d01debdc-2019-04-18T12:30:47Z-00001-000, Similarity Score: 0.7690000055586562
+Document ID: d01debdc-2019-04-18T12:30:47Z-00001-000
+Title: The voting age should be lowered to 16
+Text: The younger generation is arguably affected the most by many of the votes that take place across thi...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/The-voting-age-should-be-lowered-to-16/1/'}
+
+Query ID: 48
+Precision: 0.2, Recall: 1.0, F1: 0.33333333333333337
+
+49
+should bodi camera mandatori polic 
+Rank 1: Document 5d6bbcc-2019-04-18T12:50:03Z-00002-000, Similarity Score: 0.6331613405972643
+Document ID: 5d6bbcc-2019-04-18T12:50:03Z-00002-000
+Title: Police officers should be legally required to wear body cameras while on duty
+Text: I will argue that police officers should be legally required to wear body cameras while on duty. Sin...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Police-officers-should-be-legally-required-to-wear-body-cameras-while-on-duty/1/'}
+
+Rank 2: Document 5d6bbcc-2019-04-18T12:50:03Z-00002-000, Similarity Score: 0.6331613405972643
+Document ID: 5d6bbcc-2019-04-18T12:50:03Z-00002-000
+Title: Police officers should be legally required to wear body cameras while on duty
+Text: I will argue that police officers should be legally required to wear body cameras while on duty. Sin...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Police-officers-should-be-legally-required-to-wear-body-cameras-while-on-duty/1/'}
+
+Rank 3: Document 431b936a-2019-04-18T14:11:36Z-00006-000, Similarity Score: 0.6243367936590157
+Document ID: 431b936a-2019-04-18T14:11:36Z-00006-000
+Title: Police Officers should wear Body Cameras while on duty at all times.
+Text: Today as the con, I am going to prove to you that police officers should not wear body cameras while...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Police-Officers-should-wear-Body-Cameras-while-on-duty-at-all-times./1/'}
+
+Rank 4: Document f4135ff7-2019-04-18T14:01:54Z-00003-000, Similarity Score: 0.6232687617451118
+Document ID: f4135ff7-2019-04-18T14:01:54Z-00003-000
+Title: Resolved: Police officers should be required to wear body cameras
+Text: His refutation to my first point was that. We never stated the the crimes were fair. In fact, the op...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-Police-officers-should-be-required-to-wear-body-cameras/1/'}
+
+Rank 5: Document f4135ff7-2019-04-18T14:01:54Z-00003-000, Similarity Score: 0.6232687617451118
+Document ID: f4135ff7-2019-04-18T14:01:54Z-00003-000
+Title: Resolved: Police officers should be required to wear body cameras
+Text: His refutation to my first point was that. We never stated the the crimes were fair. In fact, the op...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-Police-officers-should-be-required-to-wear-body-cameras/1/'}
+
+Rank 6: Document 5d6bbcc-2019-04-18T12:50:03Z-00001-000, Similarity Score: 0.5838153059258174
+Document ID: 5d6bbcc-2019-04-18T12:50:03Z-00001-000
+Title: Police officers should be legally required to wear body cameras while on duty
+Text: Now to be honest I actually agree but I am board so why not, I think that body cameras might be extr...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Police-officers-should-be-legally-required-to-wear-body-cameras-while-on-duty/1/'}
+
+Rank 7: Document f4135ff7-2019-04-18T14:01:54Z-00005-000, Similarity Score: 0.5619799100080847
+Document ID: f4135ff7-2019-04-18T14:01:54Z-00005-000
+Title: Resolved: Police officers should be required to wear body cameras
+Text: * This is not necessarily a round of police debate* Humanity has been on an ever eternal quest in se...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-Police-officers-should-be-required-to-wear-body-cameras/1/'}
+
+Rank 8: Document f4135ff7-2019-04-18T14:01:54Z-00005-000, Similarity Score: 0.5619799100080847
+Document ID: f4135ff7-2019-04-18T14:01:54Z-00005-000
+Title: Resolved: Police officers should be required to wear body cameras
+Text: * This is not necessarily a round of police debate* Humanity has been on an ever eternal quest in se...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Resolved-Police-officers-should-be-required-to-wear-body-cameras/1/'}
+
+Rank 9: Document 5d6bbcc-2019-04-18T12:50:03Z-00000-000, Similarity Score: 0.5615286738964784
+Document ID: 5d6bbcc-2019-04-18T12:50:03Z-00000-000
+Title: Police officers should be legally required to wear body cameras while on duty
+Text: Also, I'd like to apologize for the lack of formal rules and structure to this debate (I am new to t...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Police-officers-should-be-legally-required-to-wear-body-cameras-while-on-duty/1/'}
+
+Rank 10: Document dfae64e7-2019-04-18T13:40:27Z-00001-000, Similarity Score: 0.5173392085152044
+Document ID: dfae64e7-2019-04-18T13:40:27Z-00001-000
+Title: Law enforcement (in America) should be required to use body cameras during civilian interaction
+Text: Wow... I'm incredibly sorry about my initial sources. I had the same debate with someone else, but h...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Law-enforcement-in-America-should-be-required-to-use-body-cameras-during-civilian-interaction/3/'}
+
+Query ID: 49
+Precision: 0.4, Recall: 1.0, F1: 0.5714285714285715
+
+50
+should everyon get univers basic incom 
+Rank 1: Document 4d103793-2019-04-18T11:35:54Z-00006-000, Similarity Score: 0.8542679896614984
+Document ID: 4d103793-2019-04-18T11:35:54Z-00006-000
+Title: Universal Basic Income
+Text: I accept...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/2/'}
+
+Rank 2: Document 4d103774-2019-04-18T13:49:55Z-00000-000, Similarity Score: 0.8462881212507474
+Document ID: 4d103774-2019-04-18T13:49:55Z-00000-000
+Title: Universal Basic Income
+Text: My opponent has forfeited....
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/1/'}
+
+Rank 3: Document 4d103774-2019-04-18T13:49:55Z-00004-000, Similarity Score: 0.808467962305335
+Document ID: 4d103774-2019-04-18T13:49:55Z-00004-000
+Title: Universal Basic Income
+Text: Yo accepto el debate...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/1/'}
+
+Rank 4: Document 4d1037f0-2019-04-18T11:08:29Z-00001-000, Similarity Score: 0.7650083920723301
+Document ID: 4d1037f0-2019-04-18T11:08:29Z-00001-000
+Title: Universal Basic Income
+Text: Thanks for providing the opportunity for this debate. This isn't a subject i am particularly opinion...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/5/'}
+
+Rank 5: Document 4d1037f0-2019-04-18T11:08:29Z-00001-000, Similarity Score: 0.7650083920723301
+Document ID: 4d1037f0-2019-04-18T11:08:29Z-00001-000
+Title: Universal Basic Income
+Text: Thanks for providing the opportunity for this debate. This isn't a subject i am particularly opinion...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/5/'}
+
+Rank 6: Document 4d1037f0-2019-04-18T11:08:29Z-00002-000, Similarity Score: 0.7303320261010063
+Document ID: 4d1037f0-2019-04-18T11:08:29Z-00002-000
+Title: Universal Basic Income
+Text: Let's debate the merit, feasibility, And necessity of a Universal Basic Income. I believe that the a...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/5/'}
+
+Rank 7: Document 4d1037f0-2019-04-18T11:08:29Z-00002-000, Similarity Score: 0.7303320261010063
+Document ID: 4d1037f0-2019-04-18T11:08:29Z-00002-000
+Title: Universal Basic Income
+Text: Let's debate the merit, feasibility, And necessity of a Universal Basic Income. I believe that the a...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/5/'}
+
+Rank 8: Document 4d103793-2019-04-18T11:35:54Z-00007-000, Similarity Score: 0.693970027292359
+Document ID: 4d103793-2019-04-18T11:35:54Z-00007-000
+Title: Universal Basic Income
+Text: This debate is for 1harder's Spring Regular Tournament. All the settings of this debate are in accor...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/2/'}
+
+Rank 9: Document 4d103793-2019-04-18T11:35:54Z-00007-000, Similarity Score: 0.693970027292359
+Document ID: 4d103793-2019-04-18T11:35:54Z-00007-000
+Title: Universal Basic Income
+Text: This debate is for 1harder's Spring Regular Tournament. All the settings of this debate are in accor...
+Metadata: {'stance': 'PRO', 'url': 'https://www.debate.org/debates/Universal-Basic-Income/2/'}
+
+Rank 10: Document b7051d6f-2019-04-18T11:25:14Z-00003-000, Similarity Score: 0.6498609222989999
+Document ID: b7051d6f-2019-04-18T11:25:14Z-00003-000
+Title: The US ought to provide an universal basic income.
+Text: I accept. Where is that debate?...
+Metadata: {'stance': 'CON', 'url': 'https://www.debate.org/debates/The-US-ought-to-provide-an-universal-basic-income./1/'}
+
+Query ID: 50
+Precision: 0.1, Recall: 0.7692307692307693, F1: 0.17699115044247787
+
+Overall Evaluation Metrics:
+Average Precision: 0.1469387755102041
+Average Recall: 0.9661353362821136
+Average F1 Score: 0.23491855587720717
