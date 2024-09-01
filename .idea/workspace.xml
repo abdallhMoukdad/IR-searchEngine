@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88a41b4d-c9f4-4745-8e43-7b5d1af4aaba" name="Changes" comment="delete file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation Metrics Results dataset2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Metrics Results dataset2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/file_checkpoint.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_0.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_1.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_12796.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_2.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_3.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_4.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/document_vectors/document_vectors_5.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/inverted_index.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tfidf_vectorizer.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vocabulary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/cli_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/cli_interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_final_dataset2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_final_dataset2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,33 +37,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.api (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_component.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_final.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_final_dataset2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multilingual_document_processor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_2000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.short_evaluation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.word_embedding.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;semi-ready&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/abdallh/PycharmProjects/information_system&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.api (1).executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main1.executor": "Run",
+    "Python.main_component.executor": "Run",
+    "Python.main_final.executor": "Run",
+    "Python.main_final_dataset2.executor": "Run",
+    "Python.multilingual_document_processor.executor": "Run",
+    "Python.read.executor": "Run",
+    "Python.read_2000.executor": "Run",
+    "Python.short_evaluation.executor": "Run",
+    "Python.word_embedding.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/abdallh/PycharmProjects/information_system",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;GitIgnore&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
